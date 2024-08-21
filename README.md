@@ -38,5 +38,3 @@ LinkedIn: Roy Meoded
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy3177&" alt="roy3177" /></p>
 
-
-
