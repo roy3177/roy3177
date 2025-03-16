@@ -40,4 +40,7 @@ Enjoy exploring!🤝
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
+  <a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/MIPS_Architecture_Logo.svg/1280px-MIPS_Architecture_Logo.svg.png" alt="mips" width="40" height="40"/> 
+  </a> 
 </p>
