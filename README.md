@@ -1,27 +1,18 @@
 
-Welcome 👋! I am Roy Meoded, a Computer Science student at Ariel University👨‍💻 .
+Hey there! 👋
+I’m Roy Meoded, a Computer Science student at Ariel University, passionate about turning ideas into code and solving problems with creativity and logic 👨‍💻⚡️
 
+I enjoy working on personal and academic projects that challenge me to learn and grow. Whether it’s building games, exploring algorithms, or diving into low-level programming — I’m always up for the next adventure 💻🧠
 
-On this page, you will find various projects I have worked on during my studies🌱 , as well as other programming-related content.
+On this page, you’ll find some of the projects I’ve built during my studies, along with other programming-related content I’ve picked up along the way. I love collaborating, learning new tech, and sharing what I discover 🚀
 
+⸻
 
-
-
-
-
-
-📫 How to reach me:
-
-
+📬 Let’s connect:
 Email: roymeoded2512@gmail.com
-
-
-
 LinkedIn: Roy Meoded
 
-
-
-Enjoy exploring!🤝 
+Thanks for stopping by — feel free to explore, star, or reach out! 🌟
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
