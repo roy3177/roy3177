@@ -10,6 +10,7 @@ On this page, you’ll find some of the projects I’ve built during my studies,
 
 📬 Let’s connect:
 Email: roymeoded2512@gmail.com
+
 LinkedIn: Roy Meoded
 
 Thanks for stopping by — feel free to explore, star, or reach out! 🌟
