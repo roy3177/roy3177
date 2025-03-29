@@ -7,7 +7,7 @@ I enjoy working on personal and academic projects that challenge me to learn and
 
 On this page, you’ll find some of the projects I’ve built during my studies, along with other programming-related content I’ve picked up along the way. I love collaborating, learning new tech, and sharing what I discover 🚀
 
-⸻
+
 
 📬 Let’s connect:
 Email: roymeoded2512@gmail.com
