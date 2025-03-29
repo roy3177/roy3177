@@ -1,5 +1,6 @@
 
 Hey there! 👋
+
 I’m Roy Meoded, a Computer Science student at Ariel University, passionate about turning ideas into code and solving problems with creativity and logic 👨‍💻⚡️
 
 I enjoy working on personal and academic projects that challenge me to learn and grow. Whether it’s building games, exploring algorithms, or diving into low-level programming — I’m always up for the next adventure 💻🧠
