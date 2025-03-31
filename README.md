@@ -54,6 +54,8 @@ Thanks for stopping by — feel free to explore, star, or reach out! 🌟
 </a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
 <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
-
+<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse_Logo.svg" alt="eclipse" title="Eclipse IDE" width="40" height="40"/>
+</a>
 
 
