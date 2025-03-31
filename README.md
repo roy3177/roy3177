@@ -52,9 +52,8 @@ Thanks for stopping by — feel free to explore, star, or reach out! 🌟
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="40" height="40"/>
 </a>
-<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse_Logo.svg" alt="eclipse" title="Eclipse IDE" width="40" height="40"/>
-</a>
+
+
 
 
 
