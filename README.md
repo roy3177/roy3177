@@ -54,6 +54,6 @@ Thanks for stopping by — feel free to explore, star, or reach out! 🌟
 </a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
 <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Build-icon.svg" alt="make" title="GNU Make" width="40" height="40"/>
-</a>
+
+
 
