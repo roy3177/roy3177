@@ -49,3 +49,6 @@ Thanks for stopping by — feel free to explore, star, or reach out! 🌟
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
   <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" width="40" height="40"/>
 </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="40" height="40"/>
+</a>
