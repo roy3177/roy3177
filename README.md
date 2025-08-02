@@ -55,7 +55,12 @@ Thanks for stopping by — feel free to explore, star, or reach out! 🌟
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
   <img src="https://camo.githubusercontent.com/2c3686146181a916847e17c88018cf04fd73d105b189c143b8e4dfacd05255d9/68747470733a2f2f612e6673646e2e636f6d2f616c6c7572612f702f77697265736861726b2f69636f6e3f31363039373832373531" alt="Wireshark" width="40" height="40"/>
 </a>
-
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+</a>
 
 
 
