@@ -13,8 +13,6 @@
 - 🎓 **3rd-year B.Sc. Computer Science** student at **Ariel University**
 - 🤖 Passionate about **AI, Machine Learning, and Data Science**
 - ⚡ Love building everything from **low-level systems** to **AI-powered pipelines**
-- 🎖️ Former **Special Forces combat soldier** — Givati Brigade (2018–2021)
-- 🌱 Currently exploring **LLM APIs, RAG systems, and AI Agents**
 - 📬 Reach me at: **roymeoded2512@gmail.com**
 
 ---
