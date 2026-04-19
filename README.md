@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Roy%20Meoded&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20Data%20Science%20%7C%20Backend%20Developer&descAlignY=56&descAlign=50" width="100%" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Computer+Science+Student+%40+Ariel+University;AI+%26+Data+Science+Enthusiast;Backend+Developer;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
