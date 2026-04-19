@@ -88,12 +88,6 @@
 
 ---
 
-## 🏆 Certifications
-
-- 🧠 **AI for Software Developers – Advanced Track** · Elevation × TechTroop × MiluimAi · *Jan 2026*
-- ☁️ **AWS Cloud Practitioner Essentials** · Amazon Web Services · *Apr 2026*
-
----
 
 ## 🤝 Connect With Me
 
