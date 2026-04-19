@@ -1,80 +1,116 @@
+<div align="center">
 
-Hey there! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Roy%20Meoded&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20Data%20Science%20%7C%20Backend%20Developer&descAlignY=56&descAlign=50" width="100%" />
 
-I’m Roy Meoded, a Computer Science student at Ariel University, passionate about turning ideas into code and solving problems with creativity and logic 👨‍💻⚡️
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Computer+Science+Student+%40+Ariel+University;AI+%26+Data+Science+Enthusiast;Backend+Developer;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-I enjoy working on personal and academic projects that challenge me to learn and grow. Whether it’s building games, exploring algorithms, or diving into low-level programming — I’m always up for the next adventure 💻🧠
+</div>
 
-On this page, you’ll find some of the projects I’ve built during my studies, along with other programming-related content I’ve picked up along the way. I love collaborating, learning new tech, and sharing what I discover 🚀
+---
 
+## 👨‍💻 About Me
 
+- 🎓 **3rd-year B.Sc. Computer Science** student at **Ariel University**
+- 🤖 Passionate about **AI, Machine Learning, and Data Science**
+- ⚡ Love building everything from **low-level systems** to **AI-powered pipelines**
+- 🎖️ Former **Special Forces combat soldier** — Givati Brigade (2018–2021)
+- 🌱 Currently exploring **LLM APIs, RAG systems, and AI Agents**
+- 📬 Reach me at: **roymeoded2512@gmail.com**
 
-📬 Let’s connect:
-Email: roymeoded2512@gmail.com
+---
 
-LinkedIn: Roy Meoded
+## 🛠️ Tech Stack
 
-Thanks for stopping by — feel free to explore, star, or reach out! 🌟
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="pycharm" width="40" height="40"/>
-  </a>
+**Languages**
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <!-- ✅ New Database Icons -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/>
-  </a>
-</p>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**AI & Data Science**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6366f1?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8b5cf6?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-06b6d4?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366f1?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8b5cf6?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Cloud & DevOps**
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
+
+**Backend & Databases**
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roy3177&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=6366f1&icon_color=8b5cf6&text_color=e2e8f0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy3177&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=6366f1&text_color=e2e8f0" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=roy3177&theme=tokyonight&hide_border=true&background=0d0d1a&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🧠 [RAG Knowledge System](https://github.com/roy3177/rag-lev-boots-project) | Retrieval-Augmented Generation with semantic search & AI responses | `Node.js` `TypeScript` `PostgreSQL` `AI APIs` |
+| 🖼️ [CIFAR-10 Classifier Suite](https://github.com/roy3177/From-Pixels-to-Predictions-CIFAR-10-Classifier-Suite) | Deep learning image classification — CNN architectures & training pipelines | `Python` `PyTorch` `CNN` |
+| 🎮 [Coup Game](https://github.com/roy3177/COUP-Game) | Full Coup board game in C++ with GUI and unit testing | `C++` `ImGui` `doctest` |
+| 📊 [Amazon Sentiment Analysis](https://github.com/roy3177/amazon-sentiment-analysis) | ML pipeline for product review classification with NLP | `Python` `scikit-learn` `Pandas` |
+| 🔍 [NetScan-C](https://github.com/roy3177/NetScan-C) | Multithreaded TCP port scanner generating HTML reports | `C` `Multithreading` `TCP/IP` `Docker` |
+| ⚡ [Cute Quotes API](https://github.com/roy3177/cute-quotes-api) | REST API with full CRUD, Swagger docs & modular architecture | `Node.js` `Express` `Swagger` |
+| 🔗 [Graph Algorithms Library](https://github.com/roy3177/Graph_Algorithms_Library) | BFS, DFS, Dijkstra, Prim, Kruskal with Valgrind validation | `C++` `Algorithms` |
+
+---
+
+## 🏆 Certifications
+
+- 🧠 **AI for Software Developers – Advanced Track** · Elevation × TechTroop × MiluimAi · *Jan 2026*
+- ☁️ **AWS Cloud Practitioner Essentials** · Amazon Web Services · *Apr 2026*
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roy%20Meoded-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-meoded-1704bb308/)
+[![Gmail](https://img.shields.io/badge/Gmail-roymeoded2512%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://roy3177.github.io/My-site)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&animation=fadeIn" width="100%" />
+
+</div>
