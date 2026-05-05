@@ -59,12 +59,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roy3177&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=6366f1&icon_color=8b5cf6&text_color=e2e8f0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy3177&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=6366f1&text_color=e2e8f0" />
-
-</div>
 
 <div align="center">
 
