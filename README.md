@@ -2,68 +2,64 @@
 
 # Hi, I'm Roy Meoded 👋
 
-### Data Scientist Intern @ BUFFERZONE | B.Sc. Computer Science @ Ariel University
+### Computer Science Student @ Ariel University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=700&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast;Data+Scientist+Intern+%40+BUFFERZONE;Backend+Developer+%26+Problem+Solver;Building+AI+Systems%2C+Cloud+Apps+%26+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=800&lines=Machine+Learning+%26+AI+Enthusiast;Computer+Vision+%7C+NLP+%7C+RAG+Systems;Backend+Developer+%26+Problem+Solver;Building+Intelligent+Software+%26+Cloud+Applications)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science student at Ariel University and a Data Scientist Intern at BUFFERZONE.
+I'm a Computer Science student at Ariel University with a strong passion for Artificial Intelligence, Machine Learning, Computer Vision, Backend Development, and Cloud Computing.
 
-My interests span across Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Backend Development, Cloud Computing, and Distributed Systems.
-
-I enjoy building real-world projects ranging from AI-powered applications and Retrieval-Augmented Generation (RAG) systems to cloud-native architectures, networking tools, and low-level C/C++ software.
+I enjoy building real-world applications ranging from AI-powered systems and Retrieval-Augmented Generation (RAG) platforms to cloud-native architectures, networking tools, and low-level software projects.
 
 🏆 **2nd Place Winner — AI For Life Hackathon 2026**
 
-💡 Passionate about solving real-world problems using AI and software engineering.
-
-🌐 Portfolio:  
+🌐 **Portfolio:**  
 https://roy3177.github.io/My-site
 
-📫 Contact:  
-**roymeoded2512@gmail.com**
+📫 **Email:**  
+roymeoded2512@gmail.com
 
 ---
 
-# 🚀 Highlights
+## 🚀 Highlights
 
 - 🏆 2nd Place — AI For Life Hackathon 2026
-- 💼 Data Scientist Intern @ BUFFERZONE
 - 🎓 B.Sc. Computer Science Student @ Ariel University
+- 🤖 Machine Learning, Deep Learning & AI Applications
+- 📷 Computer Vision & Image Processing Projects
+- 🧠 NLP, LLM Applications & RAG Systems
 - ☁️ AWS Cloud Development Experience
-- 🤖 Experience with AI Agents, RAG Systems, NLP and LLM Applications
-- 📷 Computer Vision & Deep Learning Projects
-- 🌐 Backend Development and REST API Design
-- 🐧 Linux, Networking and Systems Programming Enthusiast
+- 🌐 Backend Development & REST APIs
+- 🐧 Linux, Networking & Systems Programming
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### Languages
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org)
 
-### AI & Data Science
+### AI & Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6366f1?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8b5cf6?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-06b6d4?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-6366f1?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-8b5cf6?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-06b6d4?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-06B6D4?style=for-the-badge)
 
 ### Frameworks & Libraries
 
@@ -74,9 +70,10 @@ https://roy3177.github.io/My-site
 
 ### Data & Analytics
 
-[![NumPy](https://skillicons.dev/icons?i=python)](https://numpy.org)
-[![Pandas](https://skillicons.dev/icons?i=python)](https://pandas.pydata.org)
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Databases
 
@@ -96,34 +93,34 @@ https://roy3177.github.io/My-site
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - AI Agents & Agentic Workflows
 - Retrieval-Augmented Generation (RAG)
 - Machine Learning & Deep Learning
 - Computer Vision
-- AWS Cloud Architecture
+- Cloud-Native Architectures
 - Backend Engineering
 - Distributed Systems
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |----------|------------|-------------|
-| 🏆 **ClarifyMed** | AI-powered platform that simplifies complex medical documents into patient-friendly explanations using Large Language Models. Winner of 2nd Place at AI For Life Hackathon 2026. | Python, Gemini, Streamlit, NLP, AI |
-| ⚽ **Tribunet** | Cloud-native football match discovery platform with stadium maps, league filtering, ticket integration and serverless AWS architecture. | AWS Lambda, API Gateway, DynamoDB, S3, CloudFront |
-| 🧠 **RAG Knowledge System** | Retrieval-Augmented Generation platform combining semantic search with AI-generated answers over custom knowledge bases. | TypeScript, PostgreSQL, AI APIs |
-| 🖼️ **CIFAR-10 Classifier Suite** | Deep learning project comparing neural network architectures for image classification and model evaluation. | Python, PyTorch, CNN |
-| 📷 **Computer Vision Toolkit** | Image processing project implementing convolution filters, edge detection, sharpening and image transformations from scratch. | Python, OpenCV, NumPy |
-| 🎮 **Coup Game** | Complete implementation of the Coup board game in modern C++ with GUI, game logic, unit tests and OOP architecture. | C++, SDL2, Dear ImGui, Doctest |
-| 🌐 **NetScan-C** | Multithreaded TCP port scanner generating HTML reports and supporting scalable network scanning. | C, TCP/IP, Docker, Linux |
-| ⚡ **Cute Quotes API** | RESTful API with full CRUD functionality, validation, Swagger documentation and modular architecture. | Node.js, Express, OpenAPI |
+| 🏆 **ClarifyMed** | AI-powered platform that transforms complex medical documents into patient-friendly explanations using LLMs and document intelligence. | Python, Gemini, Streamlit, NLP |
+| ⚽ **Tribunet** | Football match discovery platform with interactive stadium maps, league filtering, ticket integration and AWS serverless architecture. | AWS, Lambda, API Gateway, DynamoDB |
+| 🧠 **RAG Knowledge System** | Retrieval-Augmented Generation platform combining semantic search and AI-generated answers over custom knowledge bases. | TypeScript, PostgreSQL, AI APIs |
+| 🖼️ **CIFAR-10 Classifier Suite** | Deep learning project comparing multiple neural network architectures for image classification. | Python, PyTorch, CNN |
+| 📷 **Convolution & Edge Detection** | Computer vision project implementing image filtering, convolution operations and edge detection algorithms from scratch. | Python, OpenCV, NumPy |
+| 🎮 **Coup Game** | Complete implementation of the Coup board game with GUI, OOP architecture and extensive unit testing. | C++, SDL2, Dear ImGui |
+| 🌐 **NetScan-C** | Multithreaded TCP port scanner capable of generating structured HTML reports. | C, TCP/IP, Docker |
+| ⚡ **Cute Quotes API** | RESTful API with CRUD operations, validation, OpenAPI documentation and modular architecture. | Node.js, Express, Swagger |
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -133,6 +130,8 @@ https://roy3177.github.io/My-site
 
 </div>
 
+<br>
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=roy3177&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
@@ -141,7 +140,7 @@ https://roy3177.github.io/My-site
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -151,17 +150,17 @@ https://roy3177.github.io/My-site
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://roy3177.github.io/My-site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://roy3177.github.io/My-site)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roy%20Meoded-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-meoded-1704bb308)
 
 [![GitHub](https://img.shields.io/badge/GitHub-roy3177-181717?style=for-the-badge&logo=github)](https://github.com/roy3177)
 
-[![Gmail](https://img.shields.io/badge/Gmail-roymeoded2512%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
 
 </div>
 
@@ -169,8 +168,6 @@ https://roy3177.github.io/My-site
 
 <div align="center">
 
-### ⭐ Always learning, always building.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
+### ⭐ Always Learning • Always Building • Always Improving
 
 </div>
