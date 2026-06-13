@@ -38,20 +38,6 @@ roymeoded2512@gmail.com
 - 🐧 Linux, Networking & Systems Programming
 
 ---
-## 🏅 Certifications
-
-| Certification | Issuer |
-|--------------|--------|
-| [AWS Academy Graduate - Cloud Developing](https://www.credly.com/badges/67f2c4c8-a785-418c-9fad-bcb565cafebd/public_url) | Amazon Web Services |
-| AWS Academy Cloud Foundations | Amazon Web Services |
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/67f2c4c8-a785-418c-9fad-bcb565cafebd/public_url">
-  <img src="https://images.credly.com/size/220x220/images/fd1cbe08-3f14-4f32-8827-e2e37239c76f/image.png" width="180"/>
-</a>
-
-</div>
 
 ## 🛠️ Tech Stack
 
