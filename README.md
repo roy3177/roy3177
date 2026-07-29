@@ -1,8 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=240&section=header&text=Roy%20Meoded&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=64&descColor=a5f3fc&descSize=24" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,4&height=240&section=header&text=Roy%20Meoded&fontSize=60&fontColor=1a1a1a&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=64&descColor=5c3d00&descSize=24" width="100%"/>
 
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=roy3177&color=C9933F&style=flat-square&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=860&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+RAG+Pipelines+%7C+LLM+APIs+%7C+MCP+Servers;⚙️+Backend+Engineering+%7C+Python+%26+TypeScript;🚀+Shipping+AI+from+Prototype+to+Production)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C9933F&center=true&vCenter=true&width=860&lines=🧠+Building+Multi-Agent+AI+Systems;📡+RAG+Pipelines+%7C+LLM+APIs+%7C+MCP+Servers;🏗️+Backend+Engineering+%7C+Python+%26+TypeScript;🚀+Shipping+AI+from+Prototype+to+Production)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,7 +31,7 @@ const roy: Developer = {
 
 <div align="center">
 
-| 🏆 | ☁️ | 🤖 | 🧠 |
+| 🥈 | ☁️ | 🔁 | 🔍 |
 |:---:|:---:|:---:|:---:|
 | **2nd Place** AI For Life Hackathon 2026 | **AWS Certified** Cloud Practitioner + Developer Associate | **4-Agent Pipeline** shipped to production | **RAG + MCP Server** with live semantic search |
 
@@ -35,7 +39,7 @@ const roy: Developer = {
 
 ---
 
-## ⚡ What I Build
+## 💡 What I Build
 
 <table>
 <tr>
@@ -50,10 +54,10 @@ pgvector semantic search, MCP servers, context-aware LLM responses. Built to be 
 </td>
 <td valign="top" width="50%">
 
-### ⚙️ Backend Engineering
+### 🏗️ Backend Engineering
 FastAPI · Node.js · PostgreSQL · Redis · REST APIs. From clean architecture to AWS/Vercel deployment.
 
-### 👁️ Computer Vision
+### 🔬 Computer Vision
 Image processing pipelines from scratch — convolution, optical flow, stereo matching, homography. Validated against OpenCV.
 
 </td>
@@ -62,19 +66,19 @@ Image processing pipelines from scratch — convolution, optical flow, stereo ma
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
 **AI & Agents**
 
-![Claude](https://img.shields.io/badge/Claude-Anthropic-6366F1?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-C9933F?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-0891B2?style=for-the-badge&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0E7490?style=for-the-badge)
-![Multi--Agent](https://img.shields.io/badge/Multi--Agent-0284C7?style=for-the-badge)
-![Langfuse](https://img.shields.io/badge/Langfuse-0891B2?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-B45309?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-92400E?style=for-the-badge)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent-D97706?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-C9933F?style=for-the-badge)
 
 <br/>
 
@@ -109,75 +113,75 @@ Image processing pipelines from scratch — convolution, optical flow, stereo ma
 **ML & Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0891B2?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0284C7?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0E7490?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-C9933F?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-D97706?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-92400E?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🗂️ Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-<h3>🏆 <a href="https://github.com/roy3177/ClarifyMed">ClarifyMed</a></h3>
+<h3>🥈 <a href="https://github.com/roy3177/ClarifyMed">ClarifyMed</a></h3>
 
-> **AI For Life Hackathon — 2nd Place 🥈**
+> **AI For Life Hackathon — 2nd Place**
 
 AI platform that transforms complex medical documents into multilingual, patient-friendly explanations using LLMs and TTS — built for Israel's diverse population.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-0891B2?style=flat-square&logo=react&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-0284C7?style=flat-square&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React-C9933F?style=flat-square&logo=react&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-B45309?style=flat-square&logo=google&logoColor=white)
 
 </td>
 <td width="50%">
 
-<h3>🤖 <a href="https://github.com/roy3177/Agentic-hire">Agentic Hire</a></h3>
+<h3>🔁 <a href="https://github.com/roy3177/Agentic-hire">Agentic Hire</a></h3>
 
 > **4-Agent Recruitment Pipeline — Live in Production**
 
 Triage → Parser → Analyst → Team Lead. Screens CVs against job descriptions and delivers scored, reasoned hiring recommendations automatically.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-6366F1?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-0E7490?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square&logo=postgresql&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-C9933F?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-D97706?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B45309?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h3>🧠 <a href="https://github.com/roy3177/rag-lev-boots-project">LevBoots Brain</a></h3>
+<h3>🔍 <a href="https://github.com/roy3177/rag-lev-boots-project">LevBoots Brain</a></h3>
 
 > **RAG + MCP Knowledge System**
 
 Ingests PDFs, Markdown & Slack. Semantic search via pgvector. Exposes an **MCP server** so any AI agent can plug in and query the knowledge base directly.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-0891B2?style=flat-square&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-0284C7?style=flat-square&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-C9933F?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-B45309?style=flat-square&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=flat-square)
 
 </td>
 <td width="50%">
 
-<h3>👁️ <a href="https://github.com/roy3177/Image-Processing-Computer-Vision">Image Processing & CV</a></h3>
+<h3>🔬 <a href="https://github.com/roy3177/Image-Processing-Computer-Vision">Image Processing & CV</a></h3>
 
 > **Computer Vision from Scratch**
 
 Edge detection, optical flow, pyramid blending, stereo matching & homography — built manually with NumPy, then validated against OpenCV.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0E7490?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0891B2?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-0284C7?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-92400E?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-C9933F?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-D97706?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
@@ -191,21 +195,21 @@ Edge detection, optical flow, pyramid blending, stereo matching & homography —
 Complete Coup board game — OOP architecture, SDL2 GUI, Dear ImGui menus, and extensive unit tests.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SDL2](https://img.shields.io/badge/SDL2-0F172A?style=flat-square)
-![ImGui](https://img.shields.io/badge/Dear%20ImGui-0891B2?style=flat-square)
+![SDL2](https://img.shields.io/badge/SDL2-1a1a1a?style=flat-square)
+![ImGui](https://img.shields.io/badge/Dear%20ImGui-C9933F?style=flat-square)
 
 </td>
 <td width="50%">
 
-<h3>🌐 <a href="https://github.com/roy3177/NetScan-C">NetScan-C</a></h3>
+<h3>📡 <a href="https://github.com/roy3177/NetScan-C">NetScan-C</a></h3>
 
 > **Multithreaded TCP Port Scanner**
 
 High-performance port scanner in C — multithreaded scanning with structured HTML report output, containerized with Docker.
 
-![C](https://img.shields.io/badge/C-0284C7?style=flat-square&logo=c&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0891B2?style=flat-square&logo=docker&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networks-0E7490?style=flat-square)
+![C](https://img.shields.io/badge/C-D97706?style=flat-square&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-C9933F?style=flat-square&logo=docker&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-92400E?style=flat-square)
 
 </td>
 </tr>
@@ -217,7 +221,7 @@ High-performance port scanner in C — multithreaded scanning with structured HT
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=roy3177&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=roy3177&theme=flat&no-frame=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -231,7 +235,7 @@ High-performance port scanner in C — multithreaded scanning with structured HT
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roy3177&theme=tokyo-night&hide_border=true&area=true&area_color=0891b2)](https://github.com/roy3177)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roy3177&theme=tokyo-night&hide_border=true&area=true&area_color=C9933F)](https://github.com/roy3177)
 
 </div>
 
@@ -248,7 +252,7 @@ High-performance port scanner in C — multithreaded scanning with structured HT
 ### 🌐 Portfolio
 **See my work in action**
 
-[![Portfolio](https://img.shields.io/badge/roy3177.github.io%2FMy--site-0891B2?style=for-the-badge&logo=githubpages&logoColor=white)](https://roy3177.github.io/My-site)
+[![Portfolio](https://img.shields.io/badge/roy3177.github.io%2FMy--site-C9933F?style=for-the-badge&logo=githubpages&logoColor=white)](https://roy3177.github.io/My-site)
 
 </td>
 <td align="center" width="33%">
@@ -276,5 +280,5 @@ High-performance port scanner in C — multithreaded scanning with structured HT
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,4&height=130&section=footer" width="100%"/>
 
