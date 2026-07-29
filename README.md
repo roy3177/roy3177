@@ -119,16 +119,16 @@ Features:
 ## Socials
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roy-meoded-1704bb308">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
+  <a href="https://roy3177.github.io/My-site" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-6366F1?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=4338CA" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://roy3177.github.io/My-site">
-    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=4338CA"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/roy-meoded-1704bb308" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  &nbsp;
-  <a href="mailto:roymeoded2512@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-roymeoded2512-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C"/>
+  &nbsp;&nbsp;
+  <a href="mailto:roymeoded2512@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
@@ -147,4 +147,3 @@ Features:
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%"/>
-
