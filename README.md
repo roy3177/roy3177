@@ -1,15 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Roy%20Meoded&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=62&descColor=c7d2fe&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=240&section=header&text=Roy%20Meoded&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=64&descColor=c7d2fe&descSize=24" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=850&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;RAG+Pipelines+%7C+LLM+APIs+%7C+MCP+Servers;Backend+Engineering+%7C+Python+%26+TypeScript;Shipping+AI+from+Prototype+to+Production)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=roy3177&color=6366f1&style=flat-square&label=Profile+Views)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=flat-square)](https://roy3177.github.io/My-site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-meoded-1704bb308)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-6366F1?style=for-the-badge)](https://roy3177.github.io/My-site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roy%20Meoded-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-meoded-1704bb308)
-[![GitHub](https://img.shields.io/badge/GitHub-roy3177-181717?style=for-the-badge&logo=github)](https://github.com/roy3177)
-[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=860&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+RAG+Pipelines+%7C+LLM+APIs+%7C+MCP+Servers;⚙️+Backend+Engineering+%7C+Python+%26+TypeScript;🚀+Shipping+AI+from+Prototype+to+Production)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,52 +18,51 @@
 
 ---
 
-## `whoami`
+## `$ whoami`
 
-```python
-roy = {
-    "role":     "AI Developer & Software Engineer",
-    "degree":   "B.Sc. Computer Science — Ariel University",
-    "focus":    ["Multi-Agent Systems", "RAG", "LLM APIs", "Backend Engineering"],
-    "languages": ["Python", "TypeScript", "C/C++", "Java"],
-    "currently": "Building AI that ships to production — not just demos",
-}
+```typescript
+const roy: Developer = {
+  role:      "AI Developer & Software Engineer",
+  degree:    "B.Sc. Computer Science  —  Ariel University",
+  focus:     ["Multi-Agent Systems", "RAG", "LLM APIs", "Backend Engineering", "CV"],
+  stack:     ["Python", "TypeScript", "C/C++", "Claude", "FastAPI", "PostgreSQL"],
+  building:  "AI that ships to production — not just demos",
+  motto:     "If it's not deployed, it doesn't count.",
+};
 ```
 
 <br/>
 
-> 🏆 **2nd Place — AI For Life Hackathon 2026** &nbsp;|&nbsp; ☁️ **AWS Certified** (Cloud Practitioner + Developer Associate)
+<div align="center">
+
+| 🏆 | ☁️ | 🤖 | 🧠 |
+|:---:|:---:|:---:|:---:|
+| **2nd Place** AI For Life Hackathon 2026 | **AWS Certified** Cloud Practitioner + Developer Associate | **4-Agent Pipeline** shipped to production | **RAG + MCP Server** with live semantic search |
+
+</div>
 
 ---
 
-## What I Build
+## ⚡ What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**🤖 AI Agents & Pipelines**
-Multi-agent systems with Claude, OpenAI & Gemini. Triage → Parse → Analyze → Decide. Production-ready, not just proof-of-concept.
+### 🤖 AI Agents & Multi-Agent Systems
+Orchestrating Claude, OpenAI & Gemini in production pipelines. Real Triage → Parse → Analyze → Decide flows — not toy demos.
 
-</td>
-<td width="50%">
-
-**🧠 RAG & Knowledge Systems**
-Semantic search over custom knowledge bases with pgvector, MCP servers, and context-aware LLM responses.
+### 🧠 RAG & Knowledge Systems
+pgvector semantic search, MCP servers, context-aware LLM responses. Built to be queried by other AI agents.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**⚙️ Backend Engineering**
-FastAPI, Node.js, REST APIs, PostgreSQL, Redis. From architecture to deployment on AWS & Vercel.
+### ⚙️ Backend Engineering
+FastAPI · Node.js · PostgreSQL · Redis · REST APIs. From clean architecture to AWS/Vercel deployment.
 
-</td>
-<td width="50%">
-
-**👁️ Computer Vision**
-Image processing pipelines built from scratch — edge detection, optical flow, stereo matching, homography.
+### 👁️ Computer Vision
+Image processing pipelines from scratch — convolution, optical flow, stereo matching, homography. Validated against OpenCV.
 
 </td>
 </tr>
@@ -70,20 +70,24 @@ Image processing pipelines built from scratch — edge detection, optical flow, 
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### AI & Agents
-![Claude](https://img.shields.io/badge/Claude-Anthropic-6366F1?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111827?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-4F46E5?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-Observability-F59E0B?style=flat-square)
-![AI Agents](https://img.shields.io/badge/Multi--Agent%20Systems-06B6D4?style=flat-square)
+**AI & Agents**
 
-### Languages & Backend
+![Claude](https://img.shields.io/badge/Claude-Anthropic-6366F1?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent-06B6D4?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-F59E0B?style=for-the-badge)
+
+<br/>
+
+**Languages & Backend**
+
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org)
@@ -95,7 +99,10 @@ Image processing pipelines built from scratch — edge detection, optical flow, 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 
-### Frontend & Cloud
+<br/>
+
+**Frontend & Cloud**
+
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
@@ -103,14 +110,17 @@ Image processing pipelines built from scratch — edge detection, optical flow, 
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 
-### ML & Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<br/>
+
+**ML & Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -122,66 +132,88 @@ Image processing pipelines built from scratch — edge detection, optical flow, 
 <tr>
 <td width="50%">
 
-### 🏆 [ClarifyMed](https://github.com/roy3177/ClarifyMed)
-**AI For Life Hackathon — 2nd Place**
+<h3>🏆 <a href="https://github.com/roy3177/ClarifyMed">ClarifyMed</a></h3>
 
-Transforms complex medical documents into multilingual, patient-friendly explanations using LLMs and Text-to-Speech — built for Israel's diverse population.
+> **AI For Life Hackathon — 2nd Place 🥈**
 
-`Python` `Flask` `React` `TypeScript` `Gemini` `TTS`
+AI platform that transforms complex medical documents into multilingual, patient-friendly explanations using LLMs and TTS — built for Israel's diverse population.
 
-</td>
-<td width="50%">
-
-### 🤖 [Agentic Hire](https://github.com/roy3177/Agentic-hire)
-**4-Agent AI Recruitment Pipeline**
-
-Triage Agent → Parser Agent → Analyst Agent → Team Lead Agent. Screens candidates against job descriptions and delivers scored, reasoned hiring recommendations.
-
-`TypeScript` `React` `Claude` `FastAPI` `PostgreSQL` `Vercel`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 [LevBoots Brain](https://github.com/roy3177/rag-lev-boots-project)
-**RAG + MCP Knowledge System**
-
-Ingests PDFs, Markdown & Slack, creates vector embeddings, answers with grounded context. Exposes an **MCP server** so any AI agent can plug in and query.
-
-`TypeScript` `PostgreSQL` `pgvector` `Gemini` `MCP`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 👁️ [Image Processing & CV](https://github.com/roy3177/Image-Processing-Computer-Vision)
-**Computer Vision from Scratch**
+<h3>🤖 <a href="https://github.com/roy3177/Agentic-hire">Agentic Hire</a></h3>
 
-Four-part project implementing edge detection, optical flow, pyramid blending, stereo matching, and homography — all built manually then validated against OpenCV.
+> **4-Agent Recruitment Pipeline — Live in Production**
 
-`Python` `NumPy` `OpenCV` `Jupyter`
+Triage → Parser → Analyst → Team Lead. Screens CVs against job descriptions and delivers scored, reasoned hiring recommendations automatically.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-6366F1?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎮 [Coup Game](https://github.com/roy3177/COUP-Game)
-**Full Game Implementation in C++**
+<h3>🧠 <a href="https://github.com/roy3177/rag-lev-boots-project">LevBoots Brain</a></h3>
 
-Complete Coup board game with GUI, clean OOP architecture, and extensive unit testing.
+> **RAG + MCP Knowledge System**
 
-`C++` `SDL2` `Dear ImGui` `OOP`
+Ingests PDFs, Markdown & Slack. Semantic search via pgvector. Exposes an **MCP server** so any AI agent can plug in and query the knowledge base directly.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
 
 </td>
 <td width="50%">
 
-### 🌐 [NetScan-C](https://github.com/roy3177/NetScan-C)
-**Multithreaded TCP Port Scanner**
+<h3>👁️ <a href="https://github.com/roy3177/Image-Processing-Computer-Vision">Image Processing & CV</a></h3>
 
-High-performance port scanner in C capable of generating structured HTML reports.
+> **Computer Vision from Scratch**
 
-`C` `TCP/IP` `Docker` `Multithreading`
+Edge detection, optical flow, pyramid blending, stereo matching & homography — built manually with NumPy, then validated against OpenCV.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3>🎮 <a href="https://github.com/roy3177/COUP-Game">Coup Game</a></h3>
+
+> **Full Game in C++ with GUI**
+
+Complete Coup board game — OOP architecture, SDL2 GUI, Dear ImGui menus, and extensive unit tests.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SDL2](https://img.shields.io/badge/SDL2-1a1a2e?style=flat-square)
+![ImGui](https://img.shields.io/badge/Dear%20ImGui-purple?style=flat-square)
+
+</td>
+<td width="50%">
+
+<h3>🌐 <a href="https://github.com/roy3177/NetScan-C">NetScan-C</a></h3>
+
+> **Multithreaded TCP Port Scanner**
+
+High-performance port scanner in C — multithreaded scanning with structured HTML report output, containerized with Docker.
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networks-gray?style=flat-square)
 
 </td>
 </tr>
@@ -193,20 +225,31 @@ High-performance port scanner in C capable of generating structured HTML reports
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=roy3177&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy3177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=roy3177&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/><br/>
+<br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=roy3177&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy3177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=roy3177&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roy3177&theme=tokyo-night&hide_border=true&area=true)](https://github.com/roy3177)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roy3177&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1)](https://github.com/roy3177)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%"/>
+<div align="center">
+
+*Building things worth building. Shipping things worth shipping.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=130&section=footer" width="100%"/>
+
