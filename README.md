@@ -118,9 +118,19 @@ Features:
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-meoded-1704bb308)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://roy3177.github.io/My-site)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/roy-meoded-1704bb308">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
+  </a>
+  &nbsp;
+  <a href="https://roy3177.github.io/My-site">
+    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=4338CA"/>
+  </a>
+  &nbsp;
+  <a href="mailto:roymeoded2512@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-roymeoded2512-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C"/>
+  </a>
+</p>
 
 ---
 
