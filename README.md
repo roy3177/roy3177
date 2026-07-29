@@ -35,11 +35,39 @@ I'm a Computer Science student at Ariel University (2022–2026) with a passion 
 
 ## Tech & Tools
 
+**Languages**
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java,fastapi,nodejs,postgres,redis,react,nextjs,tailwind,aws,docker,git,linux,vercel&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java"/>
   </a>
 </p>
+
+**Backend**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis"/>
+  </a>
+</p>
+
+**Frontend**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+  </a>
+</p>
+
+**Cloud & DevOps**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vercel"/>
+  </a>
+</p>
+
+**AI & Agents**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-6366F1?style=flat-square"/>
@@ -48,8 +76,16 @@ I'm a Computer Science student at Ariel University (2022–2026) with a passion 
   <img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square"/>
   <img src="https://img.shields.io/badge/MCP-111827?style=flat-square"/>
   <img src="https://img.shields.io/badge/Multi--Agent-0284C7?style=flat-square"/>
+</p>
+
+**ML & Vision**
+
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 ---
@@ -113,28 +149,6 @@ Features:
 ---
 
 <!-- ============================= -->
-<!--          CONNECT WITH ME      -->
-<!-- ============================= -->
-
-## Socials
-
-<p align="center">
-  <a href="https://roy3177.github.io/My-site" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-6366F1?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=4338CA" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/roy-meoded-1704bb308" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:roymeoded2512@gmail.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
-
----
-
-<!-- ============================= -->
 <!--           GITHUB STATS        -->
 <!-- ============================= -->
 
@@ -146,4 +160,27 @@ Features:
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy3177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
+---
+
+<!-- ============================= -->
+<!--          CONNECT WITH ME      -->
+<!-- ============================= -->
+
+## Socials
+
+<p align="center">
+  <a href="https://roy3177.github.io/My-site" title="Portfolio">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/roy-meoded-1704bb308" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:roymeoded2512@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%"/>
+
