@@ -4,7 +4,7 @@
 
 ### B.Sc. Computer Science Graduate — Ariel University
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=800&lines=Machine+Learning+%26+AI+Engineer;Computer+Vision+%7C+NLP+%7C+RAG+Systems;Backend+Developer+%26+Problem+Solver;Building+Intelligent+Software+%26+Cloud+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=800&lines=AI+Developer+%26+Software+Engineer;Building+Multi-Agent+AI+Systems;RAG+Pipelines+%7C+MCP+Servers+%7C+LLM+APIs)](https://git.io/typing-svg)
 
 </div>
 
