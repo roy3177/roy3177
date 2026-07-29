@@ -12,9 +12,11 @@
 
 ## 👨‍💻 About Me
 
-B.Sc. Computer Science graduate from Ariel University with a strong passion for Artificial Intelligence, Machine Learning, Computer Vision, Backend Development, and Cloud Computing.
+B.Sc. Computer Science graduate from Ariel University, specializing in AI engineering and backend development.
+I build multi-agent systems, RAG pipelines, and production-grade backends using Claude, OpenAI & Gemini APIs —
+shipping AI from prototype to production.
 
-I enjoy building real-world applications — from AI-powered multi-agent systems and RAG platforms to cloud-native architectures, networking tools, and low-level software projects.
+Currently interning at Bufferzone Security, working on YOLO-NAS object detection and malware dataset analysis for the Anti-Phishing Division.
 
 🏆 **2nd Place Winner — AI For Life Hackathon 2026**
 
