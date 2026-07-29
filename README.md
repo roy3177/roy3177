@@ -142,23 +142,7 @@ Ingests PDFs, Markdown & Slack into a vector database. Semantic search via pgvec
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 
----
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=roy3177&show_icons=true&theme=tokyonight&hide_border=true"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy3177&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roy3177&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
