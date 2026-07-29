@@ -1,1140 +1,212 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="favicon.svg?v=2" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Roy Meoded | Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/devicon.min.css" />
-</head>
-<body>
-
-  <!-- ========== NAVBAR ========== -->
-  <nav id="navbar">
-    <div class="nav-container">
-      <a href="#hero" class="nav-logo">RM<span class="dot">.</span></a>
-      <ul class="nav-links">
-        <li><a href="#about">About</a></li>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#education">Education</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#military">Military</a></li>
-        <li><a href="#certifications">Certifications</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-      <div style="display:flex;align-items:center;gap:0.75rem;">
-        <button id="themeToggle" class="theme-toggle" aria-label="Toggle theme">
-          <!-- Moon: shown in light mode → click to go dark -->
-          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/>
-          </svg>
-          <!-- Sun: shown in dark mode → click to go light -->
-          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="12" cy="12" r="5"/>
-            <line x1="12" y1="1" x2="12" y2="3"/>
-            <line x1="12" y1="21" x2="12" y2="23"/>
-            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
-            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
-            <line x1="1" y1="12" x2="3" y2="12"/>
-            <line x1="21" y1="12" x2="23" y2="12"/>
-            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
-            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
-          </svg>
-        </button>
-        <button class="hamburger" id="hamburger" aria-label="Menu">
-          <span></span><span></span><span></span>
-        </button>
-      </div>
-    </div>
-  </nav>
-
-  <!-- ========== HERO ========== -->
-  <section id="hero">
-    <canvas id="hero-particles"></canvas>
-    <div class="hero-bg-grid"></div>
-    <div class="hero-orb orb-1"></div>
-    <div class="hero-orb orb-2"></div>
-    <div class="hero-content">
-      <p class="hero-greeting reveal">Hello, I'm</p>
-      <h1 class="hero-name reveal">Roy Meoded</h1>
-      <h2 class="hero-title reveal">
-        <span class="typed-text"></span><span class="cursor">|</span>
-      </h2>
-      <p class="hero-tagline reveal">
-        Building intelligent systems, data-driven solutions,<br />and scalable applications.
-      </p>
-      <div class="hero-buttons reveal">
-        <a href="#projects" class="btn btn-primary">View Projects</a>
-        <a href="#contact" class="btn btn-outline">Contact Me</a>
-      </div>
-      <div class="hero-scroll-hint reveal">
-        <span>Scroll down</span>
-        <div class="scroll-arrow"></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== ABOUT ========== -->
-  <section id="about">
-    <div class="container">
-      <h2 class="section-title reveal">About <span class="gradient-text">Me</span></h2>
-      <div class="about-grid">
-        <div class="about-text reveal">
-          <p>
-            I'm an <strong>AI Developer &amp; Software Engineer</strong> with a B.Sc. in Computer Science,
-            focused on building intelligent systems that bridge
-            <span class="highlight">AI research</span> and
-            <span class="highlight">production-ready software</span>.
-          </p>
-          <p>
-            I work primarily with <strong>Python</strong> and <strong>TypeScript</strong>,
-            designing agentic workflows, multi-agent systems, computer vision pipelines,
-            and full-stack applications — from low-level C/C++ to LLM-powered backends.
-          </p>
-          <p>
-            I'm passionate about pushing the boundaries of what AI can do in real products —
-            constantly building, experimenting, and shipping.
-          </p>
-          <div class="about-stats">
-            <div class="stat">
-              <span class="stat-num">5+</span>
-              <span class="stat-label">Projects</span>
-            </div>
-            <div class="stat">
-              <span class="stat-num">B.Sc.</span>
-              <span class="stat-label">CS Graduate</span>
-            </div>
-            <div class="stat">
-              <span class="stat-num">5+</span>
-              <span class="stat-label">Languages</span>
-            </div>
-          </div>
-        </div>
-        <div class="about-visual reveal">
-          <div class="profile-img-wrapper">
-            <div class="profile-img-glow"></div>
-            <img src="profile.jpg" alt="Roy Meoded" loading="lazy" class="profile-img" />
-            <div class="profile-img-badge">
-              <span>🟢</span> Open to opportunities
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== EXPERIENCE ========== -->
-  <section id="experience">
-    <div class="container">
-      <h2 class="section-title reveal">Experi<span class="gradient-text">ence</span></h2>
-
-      <div class="exp-timeline">
-        <div class="exp-line"></div>
-
-        <div class="exp-card reveal">
-
-          <!-- Header -->
-          <div class="exp-card-header">
-            <div class="exp-header-left">
-              <div class="exp-icon">
-                <img src="intership.jpg" alt="Bufferzone Security" class="exp-icon-img" />
-              </div>
-              <div class="exp-company-info">
-                <h3 class="exp-role">Data Science Intern</h3>
-                <p class="exp-company">Bufferzone Security</p>
-                <p class="exp-division">Anti-Phishing Division</p>
-              </div>
-            </div>
-            <div class="exp-meta">
-              <span class="exp-period">2025 – Present</span>
-              <span class="exp-status-dot"></span>
-            </div>
-          </div>
-
-          <!-- Description -->
-          <p class="exp-desc">
-            Working as a Data Science Intern at <strong>Bufferzone Security</strong> in the
-            <span class="highlight">Anti-Phishing division</span>, focusing on data collection,
-            dataset validation, AI-assisted security analysis, and improving data quality for
-            anti-phishing and malware-related systems.
-          </p>
-
-          <!-- Responsibilities -->
-          <div class="exp-responsibilities reveal">
-            <h4 class="exp-sub-title">What I Worked On</h4>
-            <ul class="exp-list">
-              <li>Prepared datasets for <strong>YOLO-NAS</strong> object detection models using <span class="highlight">Roboflow</span>, including image collection, annotation, quality assurance, and dataset preparation.</li>
-              <li>Analyzed False Positive and False Negative cases by investigating crawler outputs, identifying recurring patterns, and providing insights to improve model accuracy.</li>
-              <li>Developed <strong>Python automation</strong> for collecting and processing benign documents, managed datasets using CSV, and created active-content documents with JavaScript for testing purposes.</li>
-              <li>Currently working on an <span class="highlight">AI-based malware analysis</span> project using <strong>MalwareBazaar</strong> and <strong>VirusTotal</strong>, performing feature extraction and preparing datasets to improve malware detection models.</li>
-            </ul>
-          </div>
-
-          <!-- Project Highlight: SafeBridge AI -->
-          <div class="exp-highlight reveal">
-            <div class="exp-highlight-badge">Project Highlight</div>
-            <h4 class="exp-highlight-title">SafeBridge AI</h4>
-            <p class="exp-highlight-desc">
-              Working on an AI-based malware analysis project as part of <strong>SafeBridge AI</strong>,
-              an AI-assisted system for file and threat analysis. Using <span class="highlight">MalwareBazaar</span>
-              and <span class="highlight">VirusTotal</span> to collect and process malware samples,
-              performing feature extraction and preparing datasets to improve malware detection models —
-              alongside validating document datasets such as <strong>PDF, DOCX, XLSX, PPTX</strong>
-              and files containing active content.
-            </p>
-          </div>
-
-          <!-- Dashboard Link -->
-          <div class="exp-dashboard reveal">
-            <div class="exp-dashboard-inner">
-              <div class="exp-dashboard-info">
-                <div class="exp-highlight-badge">Live Project</div>
-                <h4 class="exp-highlight-title">OpenPhish Analysis Dashboard</h4>
-                <p class="exp-dashboard-desc">
-                  Interactive dashboard analyzing automated phishing scan results from Dec 2025.
-                  <strong>299 URLs</strong> scanned — <span class="highlight">51 Malicious</span> · 245 Safe · 3 Unknown.
-                  Includes KPI summary, detection charts, brand analysis, PhishScore breakdown, and a full searchable data table.
-                </p>
-                <div class="exp-dashboard-stack">
-                  <div class="pt-icons" style="margin-bottom:0.4rem">
-                    <div class="pt-ski"><i class="devicon-python-plain colored"></i><span>Python</span></div>
-                    <div class="pt-ski"><i class="devicon-pandas-plain colored"></i><span>Pandas</span></div>
-                    <div class="pt-ski"><i class="devicon-html5-plain colored"></i><span>HTML5</span></div>
-                    <div class="pt-ski"><i class="devicon-css3-plain colored"></i><span>CSS3</span></div>
-                    <div class="pt-ski"><i class="devicon-javascript-plain colored"></i><span>JavaScript</span></div>
-                  </div>
-                </div>
-              </div>
-              <a href="https://roy3177.github.io/Open-Phish-analysis/" target="_blank" rel="noopener noreferrer" class="exp-dashboard-btn">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
-                  <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
-                  <polyline points="15 3 21 3 21 9"/>
-                  <line x1="10" y1="14" x2="21" y2="3"/>
-                </svg>
-                View Dashboard
-              </a>
-            </div>
-          </div>
-
-          <!-- Image Gallery -->
-          <div class="exp-gallery reveal">
-            <h4 class="exp-sub-title">Gallery</h4>
-            <div class="exp-gallery-grid">
-              <div class="exp-gallery-item">
-                <img src="exp-internship.jpeg" alt="Bufferzone Internship" loading="lazy" class="exp-gallery-img" />
-                <span class="exp-gallery-caption">Bufferzone Internship</span>
-              </div>
-              <div class="exp-gallery-item">
-                <img src="exp-poster.png" alt="SafeBridge AI Validation" loading="lazy" class="exp-gallery-img" />
-                <span class="exp-gallery-caption">SafeBridge AI Valida<span class="gradient-text">tion</span></span>
-              </div>
-            </div>
-          </div>
-
-          <!-- Skills -->
-          <div class="exp-skills reveal">
-            <h4 class="exp-sub-title">Skills Gained</h4>
-            <div class="pt-icons" style="margin-bottom:0.5rem">
-              <div class="pt-ski"><i class="devicon-python-plain colored"></i><span>Python</span></div>
-              <div class="pt-ski"><i class="devicon-pandas-plain colored"></i><span>Pandas</span></div>
-              <div class="pt-ski"><i class="devicon-javascript-plain colored"></i><span>JavaScript</span></div>
-              <div class="pt-ski"><i class="devicon-jira-plain colored"></i><span>Jira</span></div>
-            </div>
-            <div class="pt-pills">
-              <span class="exp-skill-badge">Object Detection</span>
-              <span class="exp-skill-badge">Machine Learning</span>
-              <span class="exp-skill-badge">YOLO-NAS</span>
-              <span class="exp-skill-badge">Roboflow</span>
-              <span class="exp-skill-badge">MalwareBazaar</span>
-              <span class="exp-skill-badge">VirusTotal</span>
-              <span class="exp-skill-badge">Data Validation</span>
-              <span class="exp-skill-badge">JSON</span>
-              <span class="exp-skill-badge">SafeBridge AI</span>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== EDUCATION ========== -->
-  <section id="education">
-    <div class="container">
-      <h2 class="section-title reveal">Education</h2>
-      <div class="edu-card reveal">
-        <div class="edu-left">
-          <div class="edu-icon">
-            <img src="ariel-logo.png" alt="Ariel University" class="edu-logo" />
-          </div>
-          <div class="edu-line"></div>
-        </div>
-        <div class="edu-right">
-          <div class="edu-header">
-            <div>
-              <h3>B.Sc. in Computer Science</h3>
-              <p class="edu-university">Ariel University</p>
-            </div>
-            <span class="edu-date">2022 – 2026</span>
-          </div>
-          <p class="edu-label">Relevant Coursework</p>
-          <div class="edu-courses">
-            <div class="edu-course">
-              <span class="course-name">Operating Systems</span>
-              <span class="course-grade">92</span>
-              <span class="course-desc">UNIX/POSIX, process management, sockets, multithreading & synchronization</span>
-            </div>
-            <div class="edu-course">
-              <span class="course-name">Computer Networks</span>
-              <span class="course-grade">88</span>
-              <span class="course-desc">TCP/IP, HTTP/DNS, socket programming, Wireshark traffic analysis</span>
-            </div>
-            <div class="edu-course">
-              <span class="course-name">Databases</span>
-              <span class="course-grade">85</span>
-              <span class="course-desc">SQL, relational schema design, normalization, NoSQL, JSON formats</span>
-            </div>
-            <div class="edu-course">
-              <span class="course-name">Object-Oriented Programming</span>
-              <span class="course-grade">85</span>
-              <span class="course-desc">OOP principles, design patterns, inheritance, polymorphism</span>
-            </div>
-            <div class="edu-course">
-              <span class="course-name">Architecture of Computers</span>
-              <span class="course-grade">86</span>
-              <span class="course-desc">CPU components, MIPS assembly, computer architecture</span>
-            </div>
-          </div>
-          <div class="edu-extra-tags">
-            <span class="tag">Data Structures</span>
-            <span class="tag">Algorithms</span>
-            <span class="tag">Deep Learning & NLP</span>
-            <span class="tag">Image Processing</span>
-            <span class="tag">Computer Vision</span>
-            <span class="tag">Intro to CS</span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== SKILLS ========== -->
-  <section id="skills">
-    <div class="container">
-      <h2 class="section-title reveal">Technical <span class="gradient-text">Skills</span></h2>
-      <!-- 3D Sphere -->
-      <div class="sphere-wrap reveal">
-        <div class="sphere-glow"></div>
-        <canvas id="sphereCanvas" class="sphere-canvas"></canvas>
-        <div class="sphere-container" id="skillSphere"></div>
-      </div>
-
-      <div class="skills-v2">
-
-        <!-- Frontend -->
-        <div class="skill-block reveal">
-          <div class="skill-block-hdr"><h3>Frontend</h3></div>
-          <div class="skill-icons-grid">
-            <div class="ski-group-label">Languages</div>
-            <div class="ski-group-row">
-              <div class="ski"><i class="devicon-javascript-plain colored"></i><span>JavaScript</span></div>
-              <div class="ski"><i class="devicon-typescript-plain colored"></i><span>TypeScript</span></div>
-              <div class="ski"><i class="devicon-html5-plain colored"></i><span>HTML5</span></div>
-              <div class="ski"><i class="devicon-css3-plain colored"></i><span>CSS3</span></div>
-            </div>
-            <div class="ski-group-label">Frameworks & Tools</div>
-            <div class="ski-group-row">
-              <div class="ski"><i class="devicon-react-original colored"></i><span>React</span></div>
-              <div class="ski ski-dark"><i class="devicon-nextjs-plain"></i><span>Next.js</span></div>
-              <div class="ski"><i class="devicon-tailwindcss-plain colored"></i><span>Tailwind</span></div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Languages -->
-        <div class="skill-block reveal">
-          <div class="skill-block-hdr"><h3>Languages</h3></div>
-          <div class="skill-icons-grid">
-            <div class="ski"><i class="devicon-c-plain colored"></i><span>C</span></div>
-            <div class="ski"><i class="devicon-cplusplus-plain colored"></i><span>C++</span></div>
-            <div class="ski"><i class="devicon-java-plain colored"></i><span>Java</span></div>
-            <div class="ski"><i class="devicon-python-plain colored"></i><span>Python</span></div>
-            <div class="ski"><i class="devicon-php-plain colored"></i><span>PHP</span></div>
-          </div>
-        </div>
-
-        <!-- Backend -->
-        <div class="skill-block reveal">
-          <div class="skill-block-hdr"><h3>Backend</h3></div>
-          <div class="skill-icons-grid">
-            <div class="ski"><i class="devicon-fastapi-plain colored"></i><span>FastAPI</span></div>
-            <div class="ski"><i class="devicon-nodejs-plain colored"></i><span>Node.js</span></div>
-            <div class="ski"><i class="devicon-postgresql-plain colored"></i><span>PostgreSQL</span></div>
-            <div class="ski"><i class="devicon-mysql-plain colored"></i><span>MySQL</span></div>
-            <div class="ski"><i class="devicon-sqlite-plain colored"></i><span>SQLite</span></div>
-            <div class="ski"><i class="devicon-redis-plain colored"></i><span>Redis</span></div>
-            <div class="ski ski-dark"><i class="devicon-express-original"></i><span>Express</span></div>
-          </div>
-        </div>
-
-        <!-- Data Science -->
-        <div class="skill-block reveal">
-          <div class="skill-block-hdr"><h3>Data Science</h3></div>
-          <div class="skill-icons-grid">
-            <div class="ski"><i class="devicon-pandas-plain colored"></i><span>Pandas</span></div>
-            <div class="ski"><i class="devicon-numpy-plain colored"></i><span>NumPy</span></div>
-            <div class="ski"><i class="devicon-pytorch-plain colored"></i><span>PyTorch</span></div>
-            <div class="ski"><i class="devicon-scikitlearn-plain colored"></i><span>scikit-learn</span></div>
-            <div class="ski"><i class="devicon-matplotlib-plain colored"></i><span>Matplotlib</span></div>
-            <div class="ski"><i class="devicon-jupyter-plain colored"></i><span>Jupyter</span></div>
-            <div class="ski"><i class="devicon-opencv-plain colored"></i><span>OpenCV</span></div>
-          </div>
-        </div>
-
-        <!-- AI -->
-        <div class="skill-block reveal">
-          <div class="skill-block-hdr"><h3>AI</h3></div>
-          <div class="skill-icons-grid">
-            <!-- Claude / Anthropic -->
-            <div class="ski ski-brand">
-              <svg class="ski-svg" viewBox="0 0 24 24" fill="currentColor"><path d="M13.83 3.52h3.6L24 20.48h-3.6l-6.57-16.96zm-6.26 0h3.6l6.57 16.96h-3.6zm-3.36 0h3.39L9.97 12.1 8.43 16.12 4.21 3.52zm-.6 16.96h3.39l-1.55-4.01H2.02zM0 20.48l1.54-3.93h3.31L3.33 20.48z"/></svg>
-              <span>Claude</span>
-            </div>
-            <!-- OpenAI -->
-            <div class="ski ski-brand">
-              <svg class="ski-svg" viewBox="0 0 24 24" fill="currentColor"><path d="M22.28 9.76a5.96 5.96 0 00-.52-4.93 6.06 6.06 0 00-6.51-2.91A6.07 6.07 0 0010.6.1a6.09 6.09 0 00-5.79 4.21 6.06 6.06 0 00-4.06 2.93 6.07 6.07 0 00.75 7.14 5.96 5.96 0 00.52 4.93 6.06 6.06 0 006.51 2.91 6.07 6.07 0 004.65 2.83 6.09 6.09 0 005.8-4.21 6.06 6.06 0 004.05-2.93 6.07 6.07 0 00-.75-7.14zM13.4 21.58a4.5 4.5 0 01-2.89-1.05l.14-.08 4.8-2.77a.79.79 0 00.4-.69V9.6l2.03 1.17a.07.07 0 01.04.06v5.61a4.52 4.52 0 01-4.52 4.52zm-9.81-4.14a4.5 4.5 0 01-.54-3.03l.15.09 4.8 2.77a.77.77 0 00.79 0l5.86-3.38v2.34a.08.08 0 01-.03.06L9.9 17.9a4.52 4.52 0 01-6.31-1.56zM2.84 7.88a4.51 4.51 0 012.35-1.98v5.71a.78.78 0 00.4.68l5.84 3.37-2.03 1.17a.08.08 0 01-.07 0L4.66 14a4.52 4.52 0 01-1.82-6.12zm16.66 3.88l-5.86-3.39 2.03-1.17a.07.07 0 01.07 0l4.68 2.7a4.51 4.51 0 01-.7 8.14v-5.71a.78.78 0 00-.22-.57zm2.02-3.05l-.15-.09-4.79-2.79a.78.78 0 00-.79 0L9.93 9.21V6.87a.08.08 0 01.03-.06l4.68-2.7a4.52 4.52 0 016.88 4.68zM8.87 12.82 6.84 11.65a.08.08 0 01-.04-.06V6a4.51 4.51 0 017.41-3.47l-.14.08-4.8 2.77a.79.79 0 00-.4.69zm1.1-2.37 2.61-1.5 2.6 1.5v3l-2.6 1.5-2.61-1.5z"/></svg>
-              <span>OpenAI</span>
-            </div>
-            <!-- Gemini -->
-            <div class="ski ski-brand">
-              <svg class="ski-svg" viewBox="0 0 24 24" fill="currentColor"><path d="M12 24A14.3 14.3 0 000 12 14.3 14.3 0 0012 0a14.3 14.3 0 0012 12 14.3 14.3 0 00-12 12z"/></svg>
-              <span>Gemini</span>
-            </div>
-            <!-- Lovable -->
-            <div class="ski ski-brand">
-              <svg class="ski-svg" viewBox="0 0 24 24" fill="#ec4899"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
-              <span>Lovable</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Cloud -->
-        <div class="skill-block reveal">
-          <div class="skill-block-hdr"><h3>Cloud</h3></div>
-          <div class="skill-icons-grid">
-            <div class="ski"><i class="devicon-amazonwebservices-plain-wordmark colored"></i><span>AWS</span></div>
-            <div class="ski"><i class="devicon-docker-plain colored"></i><span>Docker</span></div>
-            <div class="ski"><i class="devicon-linux-plain colored"></i><span>Linux</span></div>
-            <div class="ski ski-dark"><i class="devicon-railway-plain"></i><span>Railway</span></div>
-            <div class="ski ski-dark"><i class="devicon-vercel-plain"></i><span>Vercel</span></div>
-          </div>
-        </div>
-
-        <!-- Manage -->
-        <div class="skill-block reveal">
-          <div class="skill-block-hdr"><h3>Manage</h3></div>
-          <div class="skill-icons-grid">
-            <div class="ski"><i class="devicon-git-plain colored"></i><span>Git</span></div>
-            <div class="ski ski-dark"><i class="devicon-github-original"></i><span>GitHub</span></div>
-            <div class="ski"><i class="devicon-jira-plain colored"></i><span>Jira</span></div>
-            <div class="ski"><i class="devicon-slack-plain colored"></i><span>Slack</span></div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== PROJECTS ========== -->
-  <section id="projects">
-    <div class="container">
-      <h2 class="section-title reveal">Featured <span class="gradient-text">Projects</span></h2>
-      <div class="projects-grid">
-
-        <!-- ===== ClarifyMed — Hackathon Winner Card ===== -->
-        <div class="project-card winner reveal">
-          <div class="winner-award-banner">
-            <span class="winner-trophy">🥈</span>
-            <span>2nd Place &mdash; AI For Life Hackathon &middot; Ariel University &middot; 2026</span>
-            <span class="winner-prize">$2,000 Prize</span>
-          </div>
-          <div class="winner-inner">
-            <div class="winner-left">
-              <img src="clarifymed-logo.jpg" alt="ClarifyMed Logo" loading="lazy" class="winner-logo" />
-              <div class="winner-photos">
-                <img src="clarifymed-event.jpg" alt="ClarifyMed team presenting at hackathon" loading="lazy" class="winner-photo" />
-                <img src="clarifymed-winners.jpg" alt="ClarifyMed winning 2nd place" loading="lazy" class="winner-photo" />
-              </div>
-            </div>
-            <div class="winner-right">
-              <div class="project-top">
-                <div>
-                  <h3 class="project-title winner-title">ClarifyMed</h3>
-                  <p class="winner-subtitle">מנגישים ומפשטים מידע רפואי</p>
-                </div>
-                <div class="project-links">
-                  <a href="https://github.com/roy3177/ClarifyMed" target="_blank" class="project-link" aria-label="GitHub">
-                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-                  </a>
-                  <a href="https://www.linkedin.com/posts/roy-meoded-1704bb308_%D7%92%D7%90%D7%99%D7%9D-%D7%9C%D7%A9%D7%AA%D7%A3-%D7%A9%D7%96%D7%9B%D7%99%D7%A0%D7%95-%D7%91%D7%9E%D7%A7%D7%95%D7%9D-%D7%94%D7%A9%D7%A0%D7%99-%D7%91%D7%94%D7%90%D7%A7%D7%AA%D7%95%D7%9F-ai-for-ugcPost-7460712535428771841--ZEX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE5idiQBajmlYWPb_9V78Uvicg_UUyTQ2rk" target="_blank" class="project-link" aria-label="LinkedIn Post">
-                    <svg viewBox="0 0 24 24" fill="currentColor">
-                      <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/>
-                      <circle cx="4" cy="4" r="2"/>
-                    </svg>
-                  </a>
-                </div>
-              </div>
-              <p class="project-desc winner-desc">
-                AI-powered medical visit summarizer that transforms complex clinical documents and audio recordings
-                into clear, accessible patient summaries in <strong>5 languages</strong> (Hebrew, English, Arabic, Russian &amp; Amharic).
-                Generates narrated animated slideshows with AI-illustrated keywords — built to make medical
-                information truly accessible for Israel's diverse population.
-              </p>
-              <div class="project-tech">
-                <div class="pt-icons">
-                  <div class="pt-ski"><i class="devicon-python-plain colored"></i><span>Python</span></div>
-                  <div class="pt-ski"><i class="devicon-flask-original colored"></i><span>Flask</span></div>
-                  <div class="pt-ski"><i class="devicon-react-original colored"></i><span>React</span></div>
-                  <div class="pt-ski"><i class="devicon-typescript-plain colored"></i><span>TypeScript</span></div>
-                  <div class="pt-ski"><i class="devicon-tailwindcss-plain colored"></i><span>Tailwind</span></div>
-                  <div class="pt-ski"><svg viewBox="0 0 24 24" fill="currentColor" style="width:1.05rem;height:1.05rem;color:#4285f4"><path d="M12 24A14.3 14.3 0 000 12 14.3 14.3 0 0012 0a14.3 14.3 0 0012 12 14.3 14.3 0 00-12 12z"/></svg><span>Google Gemini</span></div>
-                </div>
-                <div class="pt-pills">
-                  <span class="tech-tag">TTS</span>
-                  <span class="tech-tag">Multilingual AI</span>
-                </div>
-              </div>
-              <div class="winner-video-wrapper">
-                <video class="winner-video" controls preload="none">
-                  <source src="video.mp4" type="video/mp4" />
-                </video>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- ===== Agentic Hire — Multi-Agent AI Recruitment ===== -->
-        <div class="project-card agentic-featured reveal">
-
-          <!-- Links pinned to top-right of card -->
-          <div class="project-links agentic-links-pin">
-            <a href="https://github.com/roy3177/Agentic-hire" target="_blank" class="project-link" aria-label="GitHub">
-              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-            </a>
-            <a href="https://agentic-hire-psi.vercel.app/" target="_blank" class="project-link" aria-label="Live Demo">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
-                <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
-                <polyline points="15 3 21 3 21 9"/>
-                <line x1="10" y1="14" x2="21" y2="3"/>
-              </svg>
-            </a>
-            <a href="https://www.linkedin.com/feed/update/urn:li:activity:7485341597270929410/" target="_blank" class="project-link" aria-label="LinkedIn Post">
-              <svg viewBox="0 0 24 24" fill="currentColor">
-                <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/>
-                <circle cx="4" cy="4" r="2"/>
-              </svg>
-            </a>
-          </div>
-
-          <div class="agentic-inner">
-
-            <!-- Left: info -->
-            <div class="agentic-left">
-              <div class="agentic-header">
-                <div>
-                  <h3 class="project-title agentic-title">Agentic Hire</h3>
-                  <p class="agentic-subtitle">Multi-Agent AI Recruitment Copilot</p>
-                </div>
-              </div>
-
-              <!-- Agent pipeline badges -->
-              <div class="agentic-agents">
-                <div class="agent-badge">
-                  <span class="agent-icon">
-                    <!-- Filter / funnel: Triage -->
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:1.3rem;height:1.3rem">
-                      <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
-                    </svg>
-                  </span>
-                  <div>
-                    <div class="agent-label">Triage Agent</div>
-                    <div class="agent-desc">Rapid candidate filtering</div>
-                  </div>
-                </div>
-                <div class="agent-badge">
-                  <span class="agent-icon">
-                    <!-- Document: Parser -->
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:1.3rem;height:1.3rem">
-                      <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/>
-                      <polyline points="14 2 14 8 20 8"/>
-                      <line x1="16" y1="13" x2="8" y2="13"/>
-                      <line x1="16" y1="17" x2="8" y2="17"/>
-                      <polyline points="10 9 9 9 8 9"/>
-                    </svg>
-                  </span>
-                  <div>
-                    <div class="agent-label">Parser Agent</div>
-                    <div class="agent-desc">Resume structured extraction</div>
-                  </div>
-                </div>
-                <div class="agent-badge">
-                  <span class="agent-icon">
-                    <!-- Bar chart: Analyst -->
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:1.3rem;height:1.3rem">
-                      <line x1="18" y1="20" x2="18" y2="10"/>
-                      <line x1="12" y1="20" x2="12" y2="4"/>
-                      <line x1="6" y1="20" x2="6" y2="14"/>
-                      <line x1="2" y1="20" x2="22" y2="20"/>
-                    </svg>
-                  </span>
-                  <div>
-                    <div class="agent-label">Analyst Agent</div>
-                    <div class="agent-desc">Skills & fit scoring</div>
-                  </div>
-                </div>
-                <div class="agent-badge">
-                  <span class="agent-icon">
-                    <!-- Checkmark shield: Team Lead -->
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:1.3rem;height:1.3rem">
-                      <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
-                      <polyline points="9 12 11 14 15 10"/>
-                    </svg>
-                  </span>
-                  <div>
-                    <div class="agent-label">Team Lead Agent</div>
-                    <div class="agent-desc">Final reasoned recommendation</div>
-                  </div>
-                </div>
-              </div>
-
-              <p class="project-desc agentic-desc">
-                AI-powered recruitment platform that automates candidate screening through a
-                <strong>4-agent pipeline</strong>. Analyzes resumes against job descriptions and delivers
-                scored, reasoned recommendations — with real-time status, drag-and-drop uploads,
-                and <strong>bilingual support</strong> (Hebrew &amp; English).
-              </p>
-
-              <div class="project-tech">
-                <div class="pt-icons">
-                  <div class="pt-ski"><i class="devicon-python-plain colored"></i><span>Python</span></div>
-                  <div class="pt-ski"><i class="devicon-fastapi-plain colored"></i><span>FastAPI</span></div>
-                  <div class="pt-ski pt-ski-dark"><i class="devicon-nextjs-plain"></i><span>Next.js</span></div>
-                  <div class="pt-ski"><i class="devicon-typescript-plain colored"></i><span>TypeScript</span></div>
-                  <div class="pt-ski"><i class="devicon-redis-plain colored"></i><span>Redis</span></div>
-                  <div class="pt-ski"><i class="devicon-postgresql-plain colored"></i><span>PostgreSQL</span></div>
-                  <div class="pt-ski pt-ski-dark"><i class="devicon-railway-plain"></i><span>Railway</span></div>
-                </div>
-                <div class="pt-pills">
-                  <span class="tech-tag">Google Gemini</span>
-                  <span class="tech-tag">Celery</span>
-                  <span class="tech-tag">Langfuse</span>
-                </div>
-              </div>
-            </div>
-
-            <!-- Right: video + testimonials -->
-            <div class="agentic-right">
-              <p class="agentic-video-title"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="vid-title-icon"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg> Live Demo</p>
-              <div class="agentic-video-wrap">
-                <video class="agentic-video" controls preload="none">
-                  <source src="agentic-hire-demo.mp4" type="video/mp4" />
-                </video>
-              </div>
-              <p class="agentic-video-title" style="margin-top:1rem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="vid-title-icon"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg> Seen in Action</p>
-              <div class="rc-thumbs">
-                <div class="rc-card">
-                  <img src="RC1.jpeg" alt="User feedback on Agentic Hire" loading="lazy" style="object-position:center 60%;">
-                </div>
-                <div class="rc-card">
-                  <img src="RC2.jpeg" alt="User feedback on Agentic Hire" loading="lazy" style="object-position:center 55%;">
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-
-        <!-- ===== LevBoots Brain — RAG + MCP + Agent ===== -->
-        <div class="project-card lev-featured reveal">
-          <div class="lev-inner">
-
-            <!-- Left: info -->
-            <div class="lev-left">
-              <div class="lev-header">
-                <div>
-                  <h3 class="project-title lev-title">LevBoots Brain</h3>
-                  <p class="lev-subtitle">Knowledge-driven AI Assistant</p>
-                </div>
-                <a href="https://github.com/roy3177/rag-lev-boots-project" target="_blank" class="project-link" aria-label="GitHub" style="margin-left:auto;">
-                  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-                </a>
-              </div>
-
-              <!-- Core concept badges -->
-              <div class="lev-concept-badges">
-                <div class="lev-concept-badge lev-badge-rag">
-                  <span class="lev-badge-icon">
-                    <!-- Database + search: RAG -->
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:1.35rem;height:1.35rem">
-                      <ellipse cx="12" cy="5" rx="8" ry="3"/>
-                      <path d="M4 5v5c0 1.66 3.58 3 8 3s8-1.34 8-3V5"/>
-                      <path d="M4 10v5c0 1.66 3.58 3 8 3"/>
-                      <circle cx="18" cy="18" r="3"/>
-                      <line x1="20.5" y1="20.5" x2="22.5" y2="22.5"/>
-                    </svg>
-                  </span>
-                  <div>
-                    <div class="lev-badge-label">RAG</div>
-                    <div class="lev-badge-desc">Retrieval-Augmented Generation over PDFs, Markdown &amp; Slack</div>
-                  </div>
-                </div>
-                <div class="lev-concept-badge lev-badge-mcp">
-                  <span class="lev-badge-icon">
-                    <!-- Plug / connect: MCP -->
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:1.35rem;height:1.35rem">
-                      <path d="M12 22v-5"/>
-                      <path d="M9 8V2"/>
-                      <path d="M15 8V2"/>
-                      <path d="M18 8H6a1 1 0 00-1 1v3a6 6 0 006 6 6 6 0 006-6V9a1 1 0 00-1-1z"/>
-                    </svg>
-                  </span>
-                  <div>
-                    <div class="lev-badge-label">MCP Server</div>
-                    <div class="lev-badge-desc">Model Context Protocol — exposes tools to any AI agent</div>
-                  </div>
-                </div>
-                <div class="lev-concept-badge lev-badge-agent">
-                  <span class="lev-badge-icon">
-                    <!-- Brain / neural: AI Agent -->
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:1.35rem;height:1.35rem">
-                      <path d="M9.5 2A2.5 2.5 0 007 4.5v.5H5.5A2.5 2.5 0 003 7.5v.5a3 3 0 000 6v.5A2.5 2.5 0 005.5 17H7v.5A2.5 2.5 0 009.5 20h5a2.5 2.5 0 002.5-2.5V17h1.5a2.5 2.5 0 002.5-2.5v-.5a3 3 0 000-6v-.5A2.5 2.5 0 0018.5 5H17v-.5A2.5 2.5 0 0014.5 2z"/>
-                      <line x1="9" y1="9" x2="9" y2="9.01"/>
-                      <line x1="15" y1="9" x2="15" y2="9.01"/>
-                      <path d="M9 14s1 1 3 1 3-1 3-1"/>
-                    </svg>
-                  </span>
-                  <div>
-                    <div class="lev-badge-label">AI Agent</div>
-                    <div class="lev-badge-desc">Conversational memory, semantic search &amp; smart completion</div>
-                  </div>
-                </div>
-              </div>
-
-              <p class="project-desc lev-desc">
-                Full-featured knowledge assistant that ingests content from multiple sources, creates vector embeddings
-                via <strong>Google Gemini</strong>, and stores them in <strong>PostgreSQL + pgvector</strong>.
-                Answers questions with grounded, context-aware responses — and exposes all capabilities through an
-                <strong>MCP server</strong> so any AI agent can plug in and query the knowledge base directly.
-              </p>
-
-              <div class="project-tech">
-                <div class="pt-icons">
-                  <div class="pt-ski"><i class="devicon-typescript-plain colored"></i><span>TypeScript</span></div>
-                  <div class="pt-ski"><i class="devicon-react-original colored"></i><span>React</span></div>
-                  <div class="pt-ski"><i class="devicon-nodejs-plain colored"></i><span>Node.js</span></div>
-                  <div class="pt-ski"><i class="devicon-postgresql-plain colored"></i><span>PostgreSQL</span></div>
-                  <div class="pt-ski"><svg viewBox="0 0 24 24" fill="currentColor" style="width:1.05rem;height:1.05rem;color:#4285f4"><path d="M12 24A14.3 14.3 0 000 12 14.3 14.3 0 0012 0a14.3 14.3 0 0012 12 14.3 14.3 0 00-12 12z"/></svg><span>Google Gemini</span></div>
-                </div>
-                <div class="pt-pills">
-                  <span class="tech-tag">pgvector</span>
-                  <span class="tech-tag">MCP</span>
-                </div>
-              </div>
-            </div>
-
-            <!-- Right: videos -->
-            <div class="lev-right">
-              <div class="lev-videos">
-                <div class="lev-video-item">
-                  <p class="lev-video-title"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="vid-title-icon"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg> RAG Pipeline Demo</p>
-                  <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/D0Ii541FBhU" title="LevBoots Brain — RAG Pipeline Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-                  </div>
-                </div>
-                <div class="lev-video-item">
-                  <p class="lev-video-title"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="vid-title-icon"><path d="M12 22v-5"/><path d="M9 8V2"/><path d="M15 8V2"/><path d="M18 8H6a1 1 0 00-1 1v3a6 6 0 006 6 6 6 0 006-6V9a1 1 0 00-1-1z"/></svg> MCP Agent in Action</p>
-                  <div class="yt-wrapper">
-                    <iframe src="https://www.youtube.com/embed/UjSd8s7Ilu0" title="LevBoots Brain — MCP Server in Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-
-        <div class="project-card reveal">
-          <div class="project-top">
-            <div class="project-links">
-              <a href="https://github.com/roy3177/COUP-Game" target="_blank" class="project-link" aria-label="GitHub">
-                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-              </a>
-            </div>
-          </div>
-          <h3 class="project-title">Coup Game</h3>
-          <p class="project-desc">
-            Full implementation of the Coup board game in C++ with complete game logic, character roles,
-            GUI using Dear ImGui, and comprehensive unit testing via doctest framework.
-          </p>
-          <div class="project-tech">
-            <div class="pt-icons">
-              <div class="pt-ski"><i class="devicon-cplusplus-plain colored"></i><span>C++</span></div>
-            </div>
-            <div class="pt-pills">
-              <span class="tech-tag">OOP</span>
-              <span class="tech-tag">ImGui</span>
-              <span class="tech-tag">doctest</span>
-            </div>
-          </div>
-        </div>
-
-        <div class="project-card reveal featured">
-          <div class="project-badge">Deep Learning</div>
-          <div class="project-top">
-            <div class="project-links">
-              <a href="https://github.com/roy3177/From-Pixels-to-Predictions-CIFAR-10-Classifier-Suite" target="_blank" class="project-link" aria-label="GitHub">
-                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-              </a>
-            </div>
-          </div>
-          <h3 class="project-title">CIFAR-10 Classifier Suite</h3>
-          <p class="project-desc">
-            End-to-end deep learning project for image classification on CIFAR-10.
-            Includes multiple models (baseline, CNNs), training pipelines, evaluation,
-            and performance comparison between architectures.
-          </p>
-          <div class="project-tech">
-            <div class="pt-icons">
-              <div class="pt-ski"><i class="devicon-python-plain colored"></i><span>Python</span></div>
-              <div class="pt-ski"><i class="devicon-pytorch-plain colored"></i><span>PyTorch</span></div>
-            </div>
-            <div class="pt-pills">
-              <span class="tech-tag">Deep Learning</span>
-              <span class="tech-tag">CNN</span>
-              <span class="tech-tag">Computer Vision</span>
-            </div>
-          </div>
-        </div>
-
-        <div class="project-card reveal">
-          <div class="project-top">
-            <div class="project-links">
-              <a href="https://github.com/roy3177/Graph_Algorithms_Library" target="_blank" class="project-link" aria-label="GitHub">
-                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-              </a>
-            </div>
-          </div>
-          <h3 class="project-title">Graph Algorithms Library</h3>
-          <p class="project-desc">
-            Implemented BFS, DFS, Dijkstra, Prim, and Kruskal from scratch with full test coverage
-            and memory validation using Valgrind.
-          </p>
-          <div class="project-tech">
-            <div class="pt-icons">
-              <div class="pt-ski"><i class="devicon-cplusplus-plain colored"></i><span>C++</span></div>
-            </div>
-            <div class="pt-pills">
-              <span class="tech-tag">Algorithms</span>
-              <span class="tech-tag">Data Structures</span>
-              <span class="tech-tag">Valgrind</span>
-            </div>
-          </div>
-        </div>
-
-        <div class="project-card reveal">
-          <div class="project-top">
-            <div class="project-links">
-              <a href="https://github.com/roy3177/Image-Processing-Computer-Vision" target="_blank" class="project-link" aria-label="GitHub">
-                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-              </a>
-            </div>
-          </div>
-          <h3 class="project-title">Image Processing & Computer Vision</h3>
-          <p class="project-desc">
-            Four-part project implementing core computer vision algorithms from scratch using NumPy —
-            covering edge detection, optical flow, pyramid blending, stereo matching, and homography.
-            Each module validated against OpenCV to confirm correctness.
-          </p>
-          <div class="project-tech">
-            <div class="pt-icons">
-              <div class="pt-ski"><i class="devicon-python-plain colored"></i><span>Python</span></div>
-              <div class="pt-ski"><i class="devicon-numpy-plain colored"></i><span>NumPy</span></div>
-              <div class="pt-ski"><i class="devicon-opencv-plain colored"></i><span>OpenCV</span></div>
-              <div class="pt-ski"><i class="devicon-jupyter-plain colored"></i><span>Jupyter</span></div>
-            </div>
-            <div class="pt-pills">
-              <span class="tech-tag">Computer Vision</span>
-              <span class="tech-tag">Image Processing</span>
-            </div>
-          </div>
-        </div>
-
-        <div class="project-card reveal">
-          <div class="project-top">
-            <div class="project-links">
-              <a href="https://github.com/roy3177/NetScan-C" target="_blank" class="project-link" aria-label="GitHub">
-                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-              </a>
-            </div>
-          </div>
-          <h3 class="project-title">NetScan-C</h3>
-          <p class="project-desc">
-            A multithreaded TCP port scanner written in C, capable of scanning target hosts concurrently
-            and generating a structured HTML report with the results.
-          </p>
-          <div class="project-tech">
-            <div class="pt-icons">
-              <div class="pt-ski"><i class="devicon-c-plain colored"></i><span>C</span></div>
-              <div class="pt-ski"><i class="devicon-docker-plain colored"></i><span>Docker</span></div>
-              <div class="pt-ski"><i class="devicon-html5-plain colored"></i><span>HTML5</span></div>
-            </div>
-            <div class="pt-pills">
-              <span class="tech-tag">Multithreading</span>
-              <span class="tech-tag">TCP/IP</span>
-              <span class="tech-tag">Networking</span>
-            </div>
-          </div>
-        </div>
-
-        <div class="project-card reveal featured">
-          <div class="project-badge">Backend</div>
-          <div class="project-top">
-            <div class="project-links">
-              <a href="https://github.com/roy3177/cute-quotes-api" target="_blank" class="project-link" aria-label="GitHub">
-                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-              </a>
-            </div>
-          </div>
-          <h3 class="project-title">Cute Quotes API</h3>
-          <p class="project-desc">
-            A clean and structured REST API built with Node.js and Express, featuring full CRUD operations,
-            validation with express-validator, Swagger documentation, and modular backend architecture
-            (routes, controllers, services, validators).
-          </p>
-          <div class="project-tech">
-            <div class="pt-icons">
-              <div class="pt-ski"><i class="devicon-nodejs-plain colored"></i><span>Node.js</span></div>
-              <div class="pt-ski pt-ski-dark"><i class="devicon-express-original"></i><span>Express</span></div>
-            </div>
-            <div class="pt-pills">
-              <span class="tech-tag">REST API</span>
-              <span class="tech-tag">Swagger</span>
-              <span class="tech-tag">Validation</span>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== MILITARY SERVICE ========== -->
-  <section id="military">
-    <div class="container">
-      <h2 class="section-title reveal">Military <span class="gradient-text">Service</span></h2>
-      <div class="military-card reveal">
-        <div class="military-left">
-          <div class="military-icon"><img src="GIVATI.png" alt="Givati Brigade" style="width:100%;height:100%;object-fit:contain;border-radius:8px;"></div>
-          <div class="military-line"></div>
-        </div>
-        <div class="military-right">
-          <div class="military-header">
-            <h3>Combat Soldier — Special Forces, Givati Brigade</h3>
-            <span class="military-date">2018 – 2021</span>
-          </div>
-          <ul class="military-bullets">
-            <li>
-              <span class="bullet-dot"></span>
-              <span><strong>Performance under pressure:</strong> Maintained high effectiveness in high-stakes combat situations while collaborating closely with team members.</span>
-            </li>
-            <li>
-              <span class="bullet-dot"></span>
-              <span><strong>Interrogation & Arabic course:</strong> Advanced spoken Arabic skills; served as an effective mediator between Arab civilians and commanders during operations.</span>
-            </li>
-          </ul>
-          <div class="military-tags">
-            <span class="tag">Leadership</span>
-            <span class="tag">Teamwork</span>
-            <span class="tag">Arabic</span>
-            <span class="tag">High-Pressure Environments</span>
-          </div>
-          <div class="military-photo-wrapper">
-            <img src="military.jpg" alt="Givati Brigade, Special Forces" loading="lazy" class="military-photo" />
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== CERTIFICATIONS ========== -->
-  <section id="certifications">
-    <div class="container">
-      <h2 class="section-title reveal">Certif<span class="gradient-text">ications</span></h2>
-      <div class="certs-grid">
-
-        <div class="cert-card reveal featured">
-          <div class="cert-badge">AI</div>
-          <div class="cert-img-wrapper">
-            <img src="cert-ai.jpg" alt="AI for Software Developers Certificate" loading="lazy" class="cert-img" />
-          </div>
-          <div class="cert-header">
-            <div class="cert-icon"><svg viewBox="0 0 24 24" fill="currentColor" style="width:1.7rem;height:1.7rem;color:#c084fc"><path d="M13.83 3.52h3.6L24 20.48h-3.6l-6.57-16.96zm-6.26 0h3.6l6.57 16.96h-3.6zm-3.36 0h3.39L9.97 12.1 8.43 16.12 4.21 3.52zm-.6 16.96h3.39l-1.55-4.01H2.02zM0 20.48l1.54-3.93h3.31L3.33 20.48z"/></svg></div>
-            <div class="cert-meta">
-              <h3>AI for Software Developers – Advanced Track</h3>
-              <p class="cert-issuer">Elevation × TechTroop × MiluimAi</p>
-            </div>
-            <span class="cert-date">Jan 2026</span>
-          </div>
-          <p class="cert-desc">
-            30-hour intensive program covering AI tools and techniques for software developers,
-            including building RAG systems, working with MCP (Model Context Protocol), LLM APIs,
-            and modern AI-powered development workflows.
-          </p>
-          <div class="cert-skills">
-            <span class="tag">RAG</span>
-            <span class="tag">MCP</span>
-            <span class="tag">Node.js</span>
-            <span class="tag">LLM APIs</span>
-            <span class="tag">Prompt Engineering</span>
-            <span class="tag">Vector Databases</span>
-            <span class="tag">AI Agents</span>
-          </div>
-        </div>
-
-        <div class="cert-card reveal featured">
-          <div class="cert-badge">Cloud</div>
-          <div class="cert-img-wrapper">
-            <img src="cert-aws.jpg" alt="AWS Cloud Practitioner Certificate" loading="lazy" class="cert-img" />
-          </div>
-          <div class="cert-header">
-            <div class="cert-icon"><i class="devicon-amazonwebservices-plain colored" style="font-size:1.8rem"></i></div>
-            <div class="cert-meta">
-              <h3>AWS Cloud Practitioner Essentials</h3>
-              <p class="cert-issuer">Amazon Web Services (AWS)</p>
-            </div>
-            <span class="cert-date">Apr 2026</span>
-          </div>
-          <p class="cert-desc">
-            Official AWS training covering core cloud concepts, AWS global infrastructure, key services
-            (EC2, S3, Lambda, RDS, VPC), security & IAM, cloud pricing models, and the shared responsibility model.
-          </p>
-          <div class="cert-skills">
-            <span class="tag">AWS</span>
-            <span class="tag">EC2</span>
-            <span class="tag">S3</span>
-            <span class="tag">Lambda</span>
-            <span class="tag">IAM</span>
-            <span class="tag">VPC</span>
-            <span class="tag">CloudWatch</span>
-            <span class="tag">Cloud Computing</span>
-          </div>
-        </div>
-
-        <div class="cert-card reveal featured">
-          <div class="cert-badge">AWS Dev</div>
-          <div class="cert-img-wrapper">
-            <img src="cer-aws-2.png" alt="AWS Developer Associate Certificate" loading="lazy" class="cert-img" />
-          </div>
-          <div class="cert-header">
-            <div class="cert-icon"><i class="devicon-amazonwebservices-plain colored" style="font-size:1.8rem"></i></div>
-            <div class="cert-meta">
-              <h3>AWS Developer Associate</h3>
-              <p class="cert-issuer">Amazon Web Services (AWS)</p>
-            </div>
-            <span class="cert-date">Jun 2026</span>
-          </div>
-          <p class="cert-desc">
-            Advanced AWS certification validating expertise in developing, deploying, and debugging
-            cloud-based applications on AWS, including serverless architectures, CI/CD pipelines,
-            and AWS SDK integration.
-          </p>
-          <div class="cert-skills">
-            <span class="tag">AWS SDK</span>
-            <span class="tag">Lambda</span>
-            <span class="tag">DynamoDB</span>
-            <span class="tag">API Gateway</span>
-            <span class="tag">CodePipeline</span>
-            <span class="tag">CloudFormation</span>
-            <span class="tag">Serverless</span>
-            <span class="tag">CI/CD</span>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== CONTACT ========== -->
-  <section id="contact">
-    <div class="container">
-      <h2 class="section-title reveal">Get In <span class="gradient-text">Touch</span></h2>
-      <p class="contact-subtitle reveal">
-        Open to internships, collaborations, and new opportunities.<br />
-        Feel free to reach out!
-      </p>
-      <div class="contact-cards reveal">
-
-        <a href="mailto:roymeoded2512@gmail.com" onclick="openGmail(event)" class="contact-card contact-icon-only" aria-label="Gmail">
-          <div class="contact-icon">
-            <svg viewBox="0 0 24 24" fill="none">
-              <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 010 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="currentColor"/>
-            </svg>
-          </div>
-          <span class="contact-label">Gmail</span>
-        </a>
-
-        <a href="https://www.linkedin.com/in/roy-meoded-1704bb308/" target="_blank" class="contact-card contact-icon-only" aria-label="LinkedIn">
-          <div class="contact-icon">
-            <svg viewBox="0 0 24 24" fill="currentColor">
-              <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/>
-              <circle cx="4" cy="4" r="2"/>
-            </svg>
-          </div>
-          <span class="contact-label">LinkedIn</span>
-        </a>
-
-        <a href="https://github.com/roy3177" target="_blank" class="contact-card contact-icon-only" aria-label="GitHub">
-          <div class="contact-icon">
-            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.604-3.369-1.34-3.369-1.34-.454-1.156-1.11-1.463-1.11-1.463-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.202 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.742 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z"/></svg>
-          </div>
-          <span class="contact-label">GitHub</span>
-        </a>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ========== FOOTER ========== -->
-  <footer>
-    <p>Designed & Built by <span class="gradient-text">Roy Meoded</span> · 2026</p>
-  </footer>
-
-  <!-- ========== SCROLL TO TOP ========== -->
-  <button id="scrollTop" aria-label="Scroll to top">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-      <path d="M18 15l-6-6-6 6"/>
-    </svg>
-  </button>
-
-  <!-- LIGHTBOX -->
-  <div id="lightbox" class="lightbox" role="dialog" aria-modal="true">
-    <button class="lightbox-close" id="lightboxClose" aria-label="Close">&times;</button>
-    <img class="lightbox-img" id="lightboxImg" src="" alt="" />
-  </div>
-
-  <!-- Custom cursor -->
-  <div id="cursor-dot"></div>
-  <div id="cursor-ring"></div>
-  <!-- Scroll progress -->
-  <div id="scroll-progress"></div>
-  <!-- Grain texture -->
-  <div id="grain"></div>
-
-  <script src="script.js"></script>
-</body>
-</html>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Roy%20Meoded&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=62&descColor=c7d2fe&descSize=22" width="100%"/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=850&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;RAG+Pipelines+%7C+LLM+APIs+%7C+MCP+Servers;Backend+Engineering+%7C+Python+%26+TypeScript;Shipping+AI+from+Prototype+to+Production)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-6366F1?style=for-the-badge)](https://roy3177.github.io/My-site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roy%20Meoded-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-meoded-1704bb308)
+[![GitHub](https://img.shields.io/badge/GitHub-roy3177-181717?style=for-the-badge&logo=github)](https://github.com/roy3177)
+[![Email](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+## `whoami`
+
+```python
+roy = {
+    "role":     "AI Developer & Software Engineer",
+    "degree":   "B.Sc. Computer Science — Ariel University",
+    "focus":    ["Multi-Agent Systems", "RAG", "LLM APIs", "Backend Engineering"],
+    "languages": ["Python", "TypeScript", "C/C++", "Java"],
+    "currently": "Building AI that ships to production — not just demos",
+}
+```
+
+<br/>
+
+> 🏆 **2nd Place — AI For Life Hackathon 2026** &nbsp;|&nbsp; ☁️ **AWS Certified** (Cloud Practitioner + Developer Associate)
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 AI Agents & Pipelines**
+Multi-agent systems with Claude, OpenAI & Gemini. Triage → Parse → Analyze → Decide. Production-ready, not just proof-of-concept.
+
+</td>
+<td width="50%">
+
+**🧠 RAG & Knowledge Systems**
+Semantic search over custom knowledge bases with pgvector, MCP servers, and context-aware LLM responses.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚙️ Backend Engineering**
+FastAPI, Node.js, REST APIs, PostgreSQL, Redis. From architecture to deployment on AWS & Vercel.
+
+</td>
+<td width="50%">
+
+**👁️ Computer Vision**
+Image processing pipelines built from scratch — edge detection, optical flow, stereo matching, homography.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+### AI & Agents
+![Claude](https://img.shields.io/badge/Claude-Anthropic-6366F1?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-111827?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-4F46E5?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-Observability-F59E0B?style=flat-square)
+![AI Agents](https://img.shields.io/badge/Multi--Agent%20Systems-06B6D4?style=flat-square)
+
+### Languages & Backend
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+
+### Frontend & Cloud
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+
+### ML & Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 [ClarifyMed](https://github.com/roy3177/ClarifyMed)
+**AI For Life Hackathon — 2nd Place**
+
+Transforms complex medical documents into multilingual, patient-friendly explanations using LLMs and Text-to-Speech — built for Israel's diverse population.
+
+`Python` `Flask` `React` `TypeScript` `Gemini` `TTS`
+
+</td>
+<td width="50%">
+
+### 🤖 [Agentic Hire](https://github.com/roy3177/Agentic-hire)
+**4-Agent AI Recruitment Pipeline**
+
+Triage Agent → Parser Agent → Analyst Agent → Team Lead Agent. Screens candidates against job descriptions and delivers scored, reasoned hiring recommendations.
+
+`TypeScript` `React` `Claude` `FastAPI` `PostgreSQL` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 [LevBoots Brain](https://github.com/roy3177/rag-lev-boots-project)
+**RAG + MCP Knowledge System**
+
+Ingests PDFs, Markdown & Slack, creates vector embeddings, answers with grounded context. Exposes an **MCP server** so any AI agent can plug in and query.
+
+`TypeScript` `PostgreSQL` `pgvector` `Gemini` `MCP`
+
+</td>
+<td width="50%">
+
+### 👁️ [Image Processing & CV](https://github.com/roy3177/Image-Processing-Computer-Vision)
+**Computer Vision from Scratch**
+
+Four-part project implementing edge detection, optical flow, pyramid blending, stereo matching, and homography — all built manually then validated against OpenCV.
+
+`Python` `NumPy` `OpenCV` `Jupyter`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 [Coup Game](https://github.com/roy3177/COUP-Game)
+**Full Game Implementation in C++**
+
+Complete Coup board game with GUI, clean OOP architecture, and extensive unit testing.
+
+`C++` `SDL2` `Dear ImGui` `OOP`
+
+</td>
+<td width="50%">
+
+### 🌐 [NetScan-C](https://github.com/roy3177/NetScan-C)
+**Multithreaded TCP Port Scanner**
+
+High-performance port scanner in C capable of generating structured HTML reports.
+
+`C` `TCP/IP` `Docker` `Multithreading`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=roy3177&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy3177&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=roy3177&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roy3177&theme=tokyo-night&hide_border=true&area=true)](https://github.com/roy3177)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%"/>
