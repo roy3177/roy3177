@@ -143,6 +143,7 @@ Ingests PDFs, Markdown & Slack into a vector database. Semantic search via pgvec
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 
 
+---
 
 ## 📈 Contribution Graph
 
