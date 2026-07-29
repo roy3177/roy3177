@@ -1,16 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=240&section=header&text=Roy%20Meoded&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=64&descColor=c7d2fe&descSize=24" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=240&section=header&text=Roy%20Meoded&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=64&descColor=a5f3fc&descSize=24" width="100%"/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=roy3177&color=6366f1&style=flat-square&label=Profile+Views)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=flat-square)](https://roy3177.github.io/My-site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-meoded-1704bb308)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=roy3177&color=0891b2&style=flat-square&label=Profile+Views)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=860&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+RAG+Pipelines+%7C+LLM+APIs+%7C+MCP+Servers;⚙️+Backend+Engineering+%7C+Python+%26+TypeScript;🚀+Shipping+AI+from+Prototype+to+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=860&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+RAG+Pipelines+%7C+LLM+APIs+%7C+MCP+Servers;⚙️+Backend+Engineering+%7C+Python+%26+TypeScript;🚀+Shipping+AI+from+Prototype+to+Production)](https://git.io/typing-svg)
 
 </div>
 
@@ -78,11 +74,11 @@ Image processing pipelines from scratch — convolution, optical flow, stereo ma
 
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-6366F1?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge)
-![Multi--Agent](https://img.shields.io/badge/Multi--Agent-06B6D4?style=for-the-badge)
-![Langfuse](https://img.shields.io/badge/Langfuse-F59E0B?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-0891B2?style=for-the-badge&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0F172A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0E7490?style=for-the-badge)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent-0284C7?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-0891B2?style=for-the-badge)
 
 <br/>
 
@@ -117,10 +113,10 @@ Image processing pipelines from scratch — convolution, optical flow, stereo ma
 **ML & Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0891B2?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0284C7?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0E7490?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -140,8 +136,8 @@ AI platform that transforms complex medical documents into multilingual, patient
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![React](https://img.shields.io/badge/React-0891B2?style=flat-square&logo=react&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-0284C7?style=flat-square&logo=google&logoColor=white)
 
 </td>
 <td width="50%">
@@ -154,8 +150,8 @@ Triage → Parser → Analyst → Team Lead. Screens CVs against job description
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-6366F1?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0E7490?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0284C7?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
@@ -169,9 +165,9 @@ Triage → Parser → Analyst → Team Lead. Screens CVs against job description
 Ingests PDFs, Markdown & Slack. Semantic search via pgvector. Exposes an **MCP server** so any AI agent can plug in and query the knowledge base directly.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-0891B2?style=flat-square&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-0284C7?style=flat-square&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square)
 
 </td>
 <td width="50%">
@@ -183,9 +179,9 @@ Ingests PDFs, Markdown & Slack. Semantic search via pgvector. Exposes an **MCP s
 Edge detection, optical flow, pyramid blending, stereo matching & homography — built manually with NumPy, then validated against OpenCV.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0E7490?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0891B2?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0284C7?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
@@ -199,8 +195,8 @@ Edge detection, optical flow, pyramid blending, stereo matching & homography —
 Complete Coup board game — OOP architecture, SDL2 GUI, Dear ImGui menus, and extensive unit tests.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SDL2](https://img.shields.io/badge/SDL2-1a1a2e?style=flat-square)
-![ImGui](https://img.shields.io/badge/Dear%20ImGui-purple?style=flat-square)
+![SDL2](https://img.shields.io/badge/SDL2-0F172A?style=flat-square)
+![ImGui](https://img.shields.io/badge/Dear%20ImGui-0891B2?style=flat-square)
 
 </td>
 <td width="50%">
@@ -211,9 +207,9 @@ Complete Coup board game — OOP architecture, SDL2 GUI, Dear ImGui menus, and e
 
 High-performance port scanner in C — multithreaded scanning with structured HTML report output, containerized with Docker.
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networks-gray?style=flat-square)
+![C](https://img.shields.io/badge/C-0284C7?style=flat-square&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0891B2?style=flat-square&logo=docker&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networks-0E7490?style=flat-square)
 
 </td>
 </tr>
@@ -239,16 +235,50 @@ High-performance port scanner in C — multithreaded scanning with structured HT
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roy3177&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1)](https://github.com/roy3177)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roy3177&theme=tokyo-night&hide_border=true&area=true&area_color=0891b2)](https://github.com/roy3177)
 
 </div>
 
 ---
 
+## 📬 Let's Connect
+
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 Portfolio
+**See my work in action**
+
+[![Portfolio](https://img.shields.io/badge/roy3177.github.io%2FMy--site-0891B2?style=for-the-badge&logo=githubpages&logoColor=white)](https://roy3177.github.io/My-site)
+
+</td>
+<td align="center" width="33%">
+
+### 💼 LinkedIn
+**Let's connect professionally**
+
+[![LinkedIn](https://img.shields.io/badge/Roy%20Meoded-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-meoded-1704bb308)
+
+</td>
+<td align="center" width="33%">
+
+### 📧 Email
+**Drop me a message**
+
+[![Email](https://img.shields.io/badge/roymeoded2512%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymeoded2512@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 *Building things worth building. Shipping things worth shipping.*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=130&section=footer" width="100%"/>
+
