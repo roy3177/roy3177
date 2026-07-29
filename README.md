@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=240&section=header&text=Roy%20Meoded&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20Software%20Engineer&descAlignY=64&descColor=a5f3fc&descSize=24" width="100%"/>
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=roy3177&color=0891b2&style=flat-square&label=Profile+Views)
-
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=860&lines=🤖+Building+Multi-Agent+AI+Systems;🧠+RAG+Pipelines+%7C+LLM+APIs+%7C+MCP+Servers;⚙️+Backend+Engineering+%7C+Python+%26+TypeScript;🚀+Shipping+AI+from+Prototype+to+Production)](https://git.io/typing-svg)
 
