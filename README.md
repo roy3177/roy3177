@@ -117,8 +117,6 @@ AI-powered platform that transforms complex medical documents into multilingual,
 
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
 
 ---
 
@@ -130,8 +128,7 @@ Triage → Parser → Analyst → Team Lead. Fully automated multi-agent system 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-![Claude](https://img.shields.io/badge/Claude-6366F1?style=flat-square)
-![AI Agents](https://img.shields.io/badge/Multi--Agent-06B6D4?style=flat-square)
+
 
 ---
 
@@ -142,9 +139,6 @@ Ingests PDFs, Markdown & Slack into a vector database. Semantic search via pgvec
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4F46E5?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
 
 ---
 
