@@ -145,15 +145,6 @@ Ingests PDFs, Markdown & Slack into a vector database. Semantic search via pgvec
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Roy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=roy3177&theme=tokyo-night)](https://github.com/roy3177)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
